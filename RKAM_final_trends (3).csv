@@ -1,0 +1,501 @@
+patient_id,year,referrer_type,city,postal_code,cancer_type,tumor_stage,board_type,bottleneck_reason,waiting_time_days,revenue_euros
+PAT-20000,2024,Research Collaboration (Cologne),Köln,50667,Sarcomas,Stage I,Standard Tumor Board,Severe Staff Shortage,7,5592
+PAT-20001,2024,External Referral (Rhine-Ruhr Partner),Bochum,44787,Dermatology,Stage II,Standard Tumor Board,Missing Medical Documents,8,5880
+PAT-20002,2025,Cooperation Partner (Münster),Münster,48149,ENT/Head & Neck,Stage II,Standard Tumor Board,In-Person Referral Overload,8,4824
+PAT-20003,2024,Regional/Local Hospital (Essen Area),Essen,45122,Ocular Oncology (Eyes),Stage II,Standard Tumor Board,Severe Staff Shortage,5,5247
+PAT-20004,2024,Cooperation Partner (Münster),Münster,48149,Urology,Stage II,Standard Tumor Board,In-Person Referral Overload,8,3767
+PAT-20005,2023,Internal Clinic (UK Essen Krebscenter),Gelsenkirchen,45879,Psycho-Oncology,Stage I,Standard Tumor Board,Missing Medical Documents,7,2741
+PAT-20006,2024,Cooperation Partner (Münster),Münster,48149,Dermatology,Stage I,Standard Tumor Board,Severe Staff Shortage,10,3890
+PAT-20007,2023,Cooperation Partner (Münster),Münster,48149,Ocular Oncology (Eyes),Stage I,Standard Tumor Board,Missing Medical Documents,9,5573
+PAT-20008,2024,Research Collaboration (Cologne),Köln,50667,Radiology Liaison,Stage II,Standard Tumor Board,Missing Medical Documents,8,3202
+PAT-20009,2026,Cooperation Partner (Münster),Münster,48149,Hematology,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,7516
+PAT-20010,2026,Research Collaboration (Cologne),Köln,50667,Sarcomas,Stage III,Molecular Tumor Board,None (Smooth Routing),3,11387
+PAT-20011,2023,Internal Clinic (UK Essen Krebscenter),Gelsenkirchen,45879,Urology,Stage I,Standard Tumor Board,In-Person Referral Overload,5,3867
+PAT-20012,2023,External Referral (Rhine-Ruhr Partner),Dortmund,44135,Hematology,Stage I,Standard Tumor Board,Severe Staff Shortage,9,2891
+PAT-20013,2026,Internal Clinic (UK Essen Krebscenter),Essen,45122,Radiology Liaison,Stage II,Standard Tumor Board,In-Person Referral Overload,10,5477
+PAT-20014,2022,Research Collaboration (Cologne),Köln,50667,Psycho-Oncology,Stage II,Standard Tumor Board,Missing Medical Documents,8,4646
+PAT-20015,2022,Research Collaboration (Cologne),Köln,50667,ENT/Head & Neck,Stage III,Standard Tumor Board,Severe Staff Shortage,10,13885
+PAT-20016,2025,Regional/Local Hospital (Essen Area),Essen,45122,Psycho-Oncology,Stage I,Standard Tumor Board,Severe Staff Shortage,8,3984
+PAT-20017,2024,Research Collaboration (Cologne),Köln,50667,Surgical Oncology,Stage II,Standard Tumor Board,Severe Staff Shortage,8,5978
+PAT-20018,2024,Research Collaboration (Cologne),Köln,50667,Pancreatic Cancer,Stage I,Standard Tumor Board,Severe Staff Shortage,7,3683
+PAT-20019,2026,Research Collaboration (Cologne),Köln,50667,Sarcomas,Stage III,Molecular Tumor Board,None (Smooth Routing),2,9193
+PAT-20020,2023,External Referral (Rhine-Ruhr Partner),Duisburg,47051,Lung Cancer,Stage III,Standard Tumor Board,Severe Staff Shortage,8,8029
+PAT-20021,2022,Internal Clinic (UK Essen Krebscenter),Duisburg,47051,Pathology Liaison,Stage II,Standard Tumor Board,Severe Staff Shortage,9,4268
+PAT-20022,2022,Research Collaboration (Cologne),Köln,50667,Hematology,Stage II,Standard Tumor Board,Severe Staff Shortage,7,5796
+PAT-20023,2023,Internal Clinic (UK Essen Krebscenter),Essen,45122,Surgical Oncology,Stage II,Standard Tumor Board,In-Person Referral Overload,7,4353
+PAT-20024,2023,Regional/Local Hospital (Essen Area),Duisburg,47051,Bowel/Colorectal,Stage I,Standard Tumor Board,In-Person Referral Overload,8,4136
+PAT-20025,2022,External Referral (Rhine-Ruhr Partner),Bochum,44787,Surgical Oncology,Stage IV,Standard Tumor Board,Beds Occupied by Less Severe Cases,17,11749
+PAT-20026,2024,Cooperation Partner (Münster),Münster,48149,Neuro-Oncology,Stage I,Standard Tumor Board,Severe Staff Shortage,9,2702
+PAT-20027,2024,External Referral (Rhine-Ruhr Partner),Oberhausen,46045,Gynecology,Stage II,Standard Tumor Board,In-Person Referral Overload,7,5299
+PAT-20028,2023,Research Collaboration (Cologne),Köln,50667,Pancreatic Cancer,Stage I,Standard Tumor Board,Severe Staff Shortage,9,4294
+PAT-20029,2026,Cooperation Partner (Münster),Münster,48149,Lung Cancer,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,6988
+PAT-20030,2024,External Referral (Rhine-Ruhr Partner),Duisburg,47051,Gynecology,Stage III,Standard Tumor Board,Missing Medical Documents,9,13116
+PAT-20031,2026,Internal Clinic (UK Essen Krebscenter),Essen,45122,Pathology Liaison,Stage III,Molecular Tumor Board,None (Smooth Routing),2,11923
+PAT-20032,2025,Internal Clinic (UK Essen Krebscenter),Essen,45122,Surgical Oncology,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,8182
+PAT-20033,2022,Cooperation Partner (Münster),Münster,48149,Hematology,Stage III,Standard Tumor Board,Severe Staff Shortage,10,6753
+PAT-20034,2024,Research Collaboration (Cologne),Köln,50667,Pathology Liaison,Stage II,Standard Tumor Board,Missing Medical Documents,11,5461
+PAT-20035,2025,Cooperation Partner (Münster),Münster,48149,Pathology Liaison,Stage II,Standard Tumor Board,Missing Medical Documents,9,5348
+PAT-20036,2024,External Referral (Rhine-Ruhr Partner),Dortmund,44135,Lung Cancer,Stage I,Standard Tumor Board,In-Person Referral Overload,9,3139
+PAT-20037,2025,Research Collaboration (Cologne),Köln,50667,Neuro-Oncology,Stage II,Standard Tumor Board,Missing Medical Documents,13,3062
+PAT-20038,2026,Internal Clinic (UK Essen Krebscenter),Essen,45122,Pancreatic Cancer,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,7459
+PAT-20039,2025,Internal Clinic (UK Essen Krebscenter),Gelsenkirchen,45879,Surgical Oncology,Stage IV,Molecular Tumor Board,None (Smooth Routing),1,8705
+PAT-20040,2026,Research Collaboration (Cologne),Köln,50667,Pediatric Oncology,Stage IV,Molecular Tumor Board,None (Smooth Routing),4,8827
+PAT-20041,2026,Research Collaboration (Cologne),Köln,50667,Lung Cancer,Stage III,Molecular Tumor Board,None (Smooth Routing),4,9475
+PAT-20042,2024,Regional/Local Hospital (Essen Area),Gelsenkirchen,45879,Surgical Oncology,Stage I,Standard Tumor Board,Severe Staff Shortage,7,3069
+PAT-20043,2025,External Referral (Rhine-Ruhr Partner),Bochum,44787,Neuro-Oncology,Stage III,Molecular Tumor Board,None (Smooth Routing),3,7909
+PAT-20044,2026,Research Collaboration (Cologne),Köln,50667,Pathology Liaison,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,12301
+PAT-20045,2026,Cooperation Partner (Münster),Münster,48149,Radiology Liaison,Stage I,Standard Tumor Board,In-Person Referral Overload,8,3184
+PAT-20046,2022,Cooperation Partner (Münster),Münster,48149,ENT/Head & Neck,Stage III,Standard Tumor Board,Severe Staff Shortage,8,12502
+PAT-20047,2024,Internal Clinic (UK Essen Krebscenter),Essen,45122,Urology,Stage I,Standard Tumor Board,In-Person Referral Overload,7,5761
+PAT-20048,2026,Cooperation Partner (Münster),Münster,48149,Radiology Liaison,Stage I,Standard Tumor Board,Missing Medical Documents,9,3181
+PAT-20049,2024,Cooperation Partner (Münster),Münster,48149,Hematology,Stage III,Standard Tumor Board,Severe Staff Shortage,5,6504
+PAT-20050,2022,External Referral (Rhine-Ruhr Partner),Oberhausen,46045,Sarcomas,Stage I,Standard Tumor Board,In-Person Referral Overload,8,5483
+PAT-20051,2024,Research Collaboration (Cologne),Köln,50667,Radiology Liaison,Stage I,Standard Tumor Board,Missing Medical Documents,7,2616
+PAT-20052,2026,Internal Clinic (UK Essen Krebscenter),Essen,45122,Pathology Liaison,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,7012
+PAT-20053,2023,Research Collaboration (Cologne),Köln,50667,Sarcomas,Stage I,Standard Tumor Board,Severe Staff Shortage,8,3203
+PAT-20054,2024,Cooperation Partner (Münster),Münster,48149,Sarcomas,Stage I,Standard Tumor Board,Severe Staff Shortage,8,2653
+PAT-20055,2022,Cooperation Partner (Münster),Münster,48149,Surgical Oncology,Stage III,Standard Tumor Board,Missing Medical Documents,11,11908
+PAT-20056,2024,Research Collaboration (Cologne),Köln,50667,Psycho-Oncology,Stage I,Standard Tumor Board,Missing Medical Documents,8,5671
+PAT-20057,2024,Regional/Local Hospital (Essen Area),Essen,45122,Sarcomas,Stage I,Standard Tumor Board,Severe Staff Shortage,9,3395
+PAT-20058,2026,Cooperation Partner (Münster),Münster,48149,Bowel/Colorectal,Stage III,Molecular Tumor Board,None (Smooth Routing),3,8068
+PAT-20059,2024,External Referral (Rhine-Ruhr Partner),Duisburg,47051,Ocular Oncology (Eyes),Stage II,Standard Tumor Board,In-Person Referral Overload,8,2784
+PAT-20060,2023,External Referral (Rhine-Ruhr Partner),Bochum,44787,ENT/Head & Neck,Stage I,Standard Tumor Board,Severe Staff Shortage,8,4582
+PAT-20061,2026,External Referral (Rhine-Ruhr Partner),Dortmund,44135,Radiology Liaison,Stage III,Molecular Tumor Board,None (Smooth Routing),2,10474
+PAT-20062,2025,Cooperation Partner (Münster),Münster,48149,Sarcomas,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,7228
+PAT-20063,2025,External Referral (Rhine-Ruhr Partner),Duisburg,47051,Surgical Oncology,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,8071
+PAT-20064,2025,Research Collaboration (Cologne),Köln,50667,Hematology,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,10351
+PAT-20065,2022,Cooperation Partner (Münster),Münster,48149,Ocular Oncology (Eyes),Stage II,Standard Tumor Board,In-Person Referral Overload,9,4403
+PAT-20066,2024,Cooperation Partner (Münster),Münster,48149,Pancreatic Cancer,Stage I,Standard Tumor Board,In-Person Referral Overload,8,2895
+PAT-20067,2026,Research Collaboration (Cologne),Köln,50667,Pediatric Oncology,Stage III,Molecular Tumor Board,None (Smooth Routing),3,9640
+PAT-20068,2024,Research Collaboration (Cologne),Köln,50667,Pancreatic Cancer,Stage I,Standard Tumor Board,In-Person Referral Overload,11,5722
+PAT-20069,2026,Cooperation Partner (Münster),Münster,48149,Pathology Liaison,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,13556
+PAT-20070,2022,Internal Clinic (UK Essen Krebscenter),Duisburg,47051,Sarcomas,Stage I,Standard Tumor Board,Missing Medical Documents,10,5181
+PAT-20071,2026,Cooperation Partner (Münster),Münster,48149,Pathology Liaison,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,9641
+PAT-20072,2024,External Referral (Rhine-Ruhr Partner),Bochum,44787,Bowel/Colorectal,Stage II,Standard Tumor Board,Severe Staff Shortage,8,4381
+PAT-20073,2022,Cooperation Partner (Münster),Münster,48149,Bowel/Colorectal,Stage II,Standard Tumor Board,In-Person Referral Overload,6,5023
+PAT-20074,2026,Research Collaboration (Cologne),Köln,50667,Psycho-Oncology,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,12991
+PAT-20075,2026,Regional/Local Hospital (Essen Area),Essen,45122,Neuro-Oncology,Stage III,Molecular Tumor Board,None (Smooth Routing),2,13315
+PAT-20076,2024,External Referral (Rhine-Ruhr Partner),Duisburg,47051,Surgical Oncology,Stage II,Standard Tumor Board,Severe Staff Shortage,7,3752
+PAT-20077,2023,Internal Clinic (UK Essen Krebscenter),Essen,45122,Ocular Oncology (Eyes),Stage II,Standard Tumor Board,Severe Staff Shortage,8,5830
+PAT-20078,2022,Cooperation Partner (Münster),Münster,48149,Bowel/Colorectal,Stage IV,Standard Tumor Board,Lack of Available Beds,18,7167
+PAT-20079,2024,Cooperation Partner (Münster),Münster,48149,Bowel/Colorectal,Stage II,Standard Tumor Board,In-Person Referral Overload,6,3368
+PAT-20080,2023,Internal Clinic (UK Essen Krebscenter),Essen,45122,Pancreatic Cancer,Stage II,Standard Tumor Board,In-Person Referral Overload,7,4536
+PAT-20081,2026,External Referral (Rhine-Ruhr Partner),Duisburg,47051,Sarcomas,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,11304
+PAT-20082,2024,External Referral (Rhine-Ruhr Partner),Dortmund,44135,Hematology,Stage III,Standard Tumor Board,Severe Staff Shortage,10,11624
+PAT-20083,2024,Research Collaboration (Cologne),Köln,50667,Urology,Stage I,Standard Tumor Board,Severe Staff Shortage,7,5853
+PAT-20084,2024,Research Collaboration (Cologne),Köln,50667,Pancreatic Cancer,Stage III,Standard Tumor Board,Missing Medical Documents,9,10500
+PAT-20085,2025,Research Collaboration (Cologne),Köln,50667,Pediatric Oncology,Stage IV,Molecular Tumor Board,None (Smooth Routing),4,10136
+PAT-20086,2026,Internal Clinic (UK Essen Krebscenter),Essen,45122,Ocular Oncology (Eyes),Stage II,Standard Tumor Board,In-Person Referral Overload,6,2550
+PAT-20087,2025,Regional/Local Hospital (Essen Area),Essen,45122,Surgical Oncology,Stage I,Standard Tumor Board,Missing Medical Documents,9,2937
+PAT-20088,2026,Cooperation Partner (Münster),Münster,48149,Gynecology,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,6888
+PAT-20089,2024,Research Collaboration (Cologne),Köln,50667,Psycho-Oncology,Stage III,Standard Tumor Board,Missing Medical Documents,10,10481
+PAT-20090,2026,Cooperation Partner (Münster),Münster,48149,Psycho-Oncology,Stage II,Standard Tumor Board,Missing Medical Documents,10,5285
+PAT-20091,2025,Cooperation Partner (Münster),Münster,48149,Pediatric Oncology,Stage IV,Molecular Tumor Board,None (Smooth Routing),4,10844
+PAT-20092,2026,Regional/Local Hospital (Essen Area),Duisburg,47051,Bowel/Colorectal,Stage III,Molecular Tumor Board,None (Smooth Routing),4,8680
+PAT-20093,2025,Regional/Local Hospital (Essen Area),Essen,45122,Lung Cancer,Stage III,Molecular Tumor Board,None (Smooth Routing),3,12069
+PAT-20094,2025,Internal Clinic (UK Essen Krebscenter),Essen,45122,Surgical Oncology,Stage III,Molecular Tumor Board,None (Smooth Routing),3,13491
+PAT-20095,2023,External Referral (Rhine-Ruhr Partner),Oberhausen,46045,Hematology,Stage I,Standard Tumor Board,Missing Medical Documents,7,2592
+PAT-20096,2025,Research Collaboration (Cologne),Köln,50667,Pediatric Oncology,Stage I,Standard Tumor Board,Missing Medical Documents,8,3989
+PAT-20097,2023,Regional/Local Hospital (Essen Area),Essen,45122,Gynecology,Stage I,Standard Tumor Board,Missing Medical Documents,6,5644
+PAT-20098,2026,External Referral (Rhine-Ruhr Partner),Oberhausen,46045,Pathology Liaison,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,10643
+PAT-20099,2025,Regional/Local Hospital (Essen Area),Duisburg,47051,Sarcomas,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,8625
+PAT-20100,2025,External Referral (Rhine-Ruhr Partner),Oberhausen,46045,ENT/Head & Neck,Stage II,Standard Tumor Board,Severe Staff Shortage,9,3526
+PAT-20101,2022,External Referral (Rhine-Ruhr Partner),Oberhausen,46045,Gynecology,Stage I,Standard Tumor Board,In-Person Referral Overload,9,5586
+PAT-20102,2025,Internal Clinic (UK Essen Krebscenter),Duisburg,47051,Bowel/Colorectal,Stage I,Standard Tumor Board,Missing Medical Documents,6,4633
+PAT-20103,2024,External Referral (Rhine-Ruhr Partner),Dortmund,44135,Pathology Liaison,Stage II,Standard Tumor Board,Missing Medical Documents,8,4656
+PAT-20104,2022,Internal Clinic (UK Essen Krebscenter),Essen,45122,Urology,Stage II,Standard Tumor Board,In-Person Referral Overload,10,4972
+PAT-20105,2025,Research Collaboration (Cologne),Köln,50667,Hematology,Stage III,Molecular Tumor Board,None (Smooth Routing),2,9948
+PAT-20106,2022,Cooperation Partner (Münster),Münster,48149,Neuro-Oncology,Stage I,Standard Tumor Board,Severe Staff Shortage,8,5921
+PAT-20107,2026,Internal Clinic (UK Essen Krebscenter),Essen,45122,Urology,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,12617
+PAT-20108,2026,Regional/Local Hospital (Essen Area),Essen,45122,Urology,Stage III,Molecular Tumor Board,None (Smooth Routing),3,13967
+PAT-20109,2024,Research Collaboration (Cologne),Köln,50667,Ocular Oncology (Eyes),Stage II,Standard Tumor Board,Severe Staff Shortage,7,4417
+PAT-20110,2026,Internal Clinic (UK Essen Krebscenter),Essen,45122,Sarcomas,Stage III,Molecular Tumor Board,None (Smooth Routing),4,8539
+PAT-20111,2023,Internal Clinic (UK Essen Krebscenter),Essen,45122,Dermatology,Stage I,Standard Tumor Board,Missing Medical Documents,7,4443
+PAT-20112,2024,Research Collaboration (Cologne),Köln,50667,ENT/Head & Neck,Stage I,Standard Tumor Board,Missing Medical Documents,9,4865
+PAT-20113,2026,Internal Clinic (UK Essen Krebscenter),Duisburg,47051,Bowel/Colorectal,Stage III,Standard Tumor Board,In-Person Referral Overload,7,9465
+PAT-20114,2023,Cooperation Partner (Münster),Münster,48149,Pathology Liaison,Stage III,Standard Tumor Board,Severe Staff Shortage,9,13441
+PAT-20115,2025,Internal Clinic (UK Essen Krebscenter),Duisburg,47051,Radiology Liaison,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,8636
+PAT-20116,2024,External Referral (Rhine-Ruhr Partner),Dortmund,44135,Hematology,Stage I,Standard Tumor Board,In-Person Referral Overload,8,4969
+PAT-20117,2023,Regional/Local Hospital (Essen Area),Essen,45122,Ocular Oncology (Eyes),Stage I,Standard Tumor Board,Severe Staff Shortage,11,4651
+PAT-20118,2024,External Referral (Rhine-Ruhr Partner),Duisburg,47051,Neuro-Oncology,Stage IV,Standard Tumor Board,Lack of Available Beds,18,13197
+PAT-20119,2024,Research Collaboration (Cologne),Köln,50667,Psycho-Oncology,Stage II,Standard Tumor Board,In-Person Referral Overload,10,5097
+PAT-20120,2024,Internal Clinic (UK Essen Krebscenter),Essen,45122,Dermatology,Stage III,Standard Tumor Board,Missing Medical Documents,9,9145
+PAT-20121,2024,Cooperation Partner (Münster),Münster,48149,Neuro-Oncology,Stage II,Standard Tumor Board,Severe Staff Shortage,9,4400
+PAT-20122,2026,Cooperation Partner (Münster),Münster,48149,Dermatology,Stage III,Molecular Tumor Board,None (Smooth Routing),3,9391
+PAT-20123,2025,Research Collaboration (Cologne),Köln,50667,Radiology Liaison,Stage III,Molecular Tumor Board,None (Smooth Routing),3,12279
+PAT-20124,2026,Regional/Local Hospital (Essen Area),Gelsenkirchen,45879,Neuro-Oncology,Stage II,Standard Tumor Board,Missing Medical Documents,8,4943
+PAT-20125,2025,External Referral (Rhine-Ruhr Partner),Duisburg,47051,Urology,Stage IV,Molecular Tumor Board,None (Smooth Routing),5,13647
+PAT-20126,2025,Regional/Local Hospital (Essen Area),Duisburg,47051,Hematology,Stage I,Standard Tumor Board,In-Person Referral Overload,10,5949
+PAT-20127,2026,Internal Clinic (UK Essen Krebscenter),Essen,45122,Neuro-Oncology,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,9976
+PAT-20128,2023,External Referral (Rhine-Ruhr Partner),Duisburg,47051,Psycho-Oncology,Stage IV,Standard Tumor Board,Lack of Available Beds,16,12530
+PAT-20129,2026,External Referral (Rhine-Ruhr Partner),Oberhausen,46045,Dermatology,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,12887
+PAT-20130,2026,External Referral (Rhine-Ruhr Partner),Bochum,44787,Gynecology,Stage III,Molecular Tumor Board,None (Smooth Routing),2,12990
+PAT-20131,2023,Cooperation Partner (Münster),Münster,48149,Hematology,Stage II,Standard Tumor Board,In-Person Referral Overload,6,3209
+PAT-20132,2026,External Referral (Rhine-Ruhr Partner),Bochum,44787,Ocular Oncology (Eyes),Stage IV,Standard Tumor Board,Beds Occupied by Less Severe Cases,16,9213
+PAT-20133,2022,Internal Clinic (UK Essen Krebscenter),Essen,45122,Sarcomas,Stage I,Standard Tumor Board,Severe Staff Shortage,6,3489
+PAT-20134,2024,Research Collaboration (Cologne),Köln,50667,Hematology,Stage III,Standard Tumor Board,In-Person Referral Overload,10,9876
+PAT-20135,2025,Regional/Local Hospital (Essen Area),Essen,45122,Ocular Oncology (Eyes),Stage IV,Molecular Tumor Board,None (Smooth Routing),2,11583
+PAT-20136,2024,Internal Clinic (UK Essen Krebscenter),Essen,45122,Pediatric Oncology,Stage I,Standard Tumor Board,Severe Staff Shortage,7,2554
+PAT-20137,2026,Cooperation Partner (Münster),Münster,48149,Gynecology,Stage III,Molecular Tumor Board,None (Smooth Routing),3,8323
+PAT-20138,2025,External Referral (Rhine-Ruhr Partner),Duisburg,47051,Ocular Oncology (Eyes),Stage IV,Molecular Tumor Board,None (Smooth Routing),2,12602
+PAT-20139,2025,External Referral (Rhine-Ruhr Partner),Duisburg,47051,Urology,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,11707
+PAT-20140,2026,Cooperation Partner (Münster),Münster,48149,Pancreatic Cancer,Stage IV,Molecular Tumor Board,None (Smooth Routing),1,6664
+PAT-20141,2022,Research Collaboration (Cologne),Köln,50667,Radiology Liaison,Stage I,Standard Tumor Board,In-Person Referral Overload,7,2646
+PAT-20142,2026,Regional/Local Hospital (Essen Area),Gelsenkirchen,45879,Sarcomas,Stage III,Molecular Tumor Board,None (Smooth Routing),2,13352
+PAT-20143,2025,Research Collaboration (Cologne),Köln,50667,Bowel/Colorectal,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,11529
+PAT-20144,2024,Cooperation Partner (Münster),Münster,48149,Dermatology,Stage I,Standard Tumor Board,In-Person Referral Overload,8,5401
+PAT-20145,2026,Regional/Local Hospital (Essen Area),Essen,45122,Surgical Oncology,Stage II,Standard Tumor Board,In-Person Referral Overload,10,5073
+PAT-20146,2024,Internal Clinic (UK Essen Krebscenter),Essen,45122,Sarcomas,Stage I,Standard Tumor Board,Missing Medical Documents,8,5806
+PAT-20147,2023,Regional/Local Hospital (Essen Area),Essen,45122,Psycho-Oncology,Stage II,Standard Tumor Board,In-Person Referral Overload,9,4589
+PAT-20148,2023,Regional/Local Hospital (Essen Area),Duisburg,47051,Ocular Oncology (Eyes),Stage I,Standard Tumor Board,In-Person Referral Overload,7,2841
+PAT-20149,2025,Internal Clinic (UK Essen Krebscenter),Essen,45122,Gynecology,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,9453
+PAT-20150,2024,Regional/Local Hospital (Essen Area),Essen,45122,Bowel/Colorectal,Stage III,Standard Tumor Board,In-Person Referral Overload,8,7886
+PAT-20151,2023,External Referral (Rhine-Ruhr Partner),Duisburg,47051,Dermatology,Stage III,Standard Tumor Board,In-Person Referral Overload,7,13319
+PAT-20152,2025,Regional/Local Hospital (Essen Area),Essen,45122,Hematology,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,9211
+PAT-20153,2022,Cooperation Partner (Münster),Münster,48149,Lung Cancer,Stage I,Standard Tumor Board,Severe Staff Shortage,9,5505
+PAT-20154,2025,Regional/Local Hospital (Essen Area),Essen,45122,Gynecology,Stage IV,Molecular Tumor Board,None (Smooth Routing),4,13356
+PAT-20155,2025,External Referral (Rhine-Ruhr Partner),Bochum,44787,Pathology Liaison,Stage II,Standard Tumor Board,Severe Staff Shortage,7,3752
+PAT-20156,2023,Research Collaboration (Cologne),Köln,50667,Gynecology,Stage I,Standard Tumor Board,Severe Staff Shortage,8,5615
+PAT-20157,2023,External Referral (Rhine-Ruhr Partner),Duisburg,47051,ENT/Head & Neck,Stage IV,Standard Tumor Board,Beds Occupied by Less Severe Cases,18,10562
+PAT-20158,2025,Internal Clinic (UK Essen Krebscenter),Gelsenkirchen,45879,Neuro-Oncology,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,11887
+PAT-20159,2022,External Referral (Rhine-Ruhr Partner),Duisburg,47051,Dermatology,Stage II,Standard Tumor Board,Severe Staff Shortage,8,4021
+PAT-20160,2026,Cooperation Partner (Münster),Münster,48149,Gynecology,Stage IV,Molecular Tumor Board,None (Smooth Routing),4,7434
+PAT-20161,2025,Cooperation Partner (Münster),Münster,48149,Hematology,Stage II,Standard Tumor Board,Severe Staff Shortage,9,3621
+PAT-20162,2025,Cooperation Partner (Münster),Münster,48149,Hematology,Stage III,Molecular Tumor Board,None (Smooth Routing),4,6538
+PAT-20163,2024,Research Collaboration (Cologne),Köln,50667,Gynecology,Stage II,Standard Tumor Board,Missing Medical Documents,8,3949
+PAT-20164,2024,External Referral (Rhine-Ruhr Partner),Oberhausen,46045,Pediatric Oncology,Stage III,Standard Tumor Board,In-Person Referral Overload,9,8304
+PAT-20165,2022,Internal Clinic (UK Essen Krebscenter),Essen,45122,ENT/Head & Neck,Stage I,Standard Tumor Board,In-Person Referral Overload,8,2744
+PAT-20166,2025,Regional/Local Hospital (Essen Area),Essen,45122,Bowel/Colorectal,Stage IV,Molecular Tumor Board,None (Smooth Routing),1,9930
+PAT-20167,2026,Internal Clinic (UK Essen Krebscenter),Essen,45122,Gynecology,Stage II,Standard Tumor Board,Missing Medical Documents,8,5496
+PAT-20168,2022,Cooperation Partner (Münster),Münster,48149,Urology,Stage I,Standard Tumor Board,Severe Staff Shortage,8,5711
+PAT-20169,2026,Research Collaboration (Cologne),Köln,50667,ENT/Head & Neck,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,12869
+PAT-20170,2026,Research Collaboration (Cologne),Köln,50667,Pancreatic Cancer,Stage III,Molecular Tumor Board,None (Smooth Routing),1,11929
+PAT-20171,2023,Regional/Local Hospital (Essen Area),Duisburg,47051,Radiology Liaison,Stage I,Standard Tumor Board,Missing Medical Documents,8,4296
+PAT-20172,2026,Cooperation Partner (Münster),Münster,48149,Ocular Oncology (Eyes),Stage III,Molecular Tumor Board,None (Smooth Routing),3,8413
+PAT-20173,2024,External Referral (Rhine-Ruhr Partner),Bochum,44787,Ocular Oncology (Eyes),Stage I,Standard Tumor Board,In-Person Referral Overload,5,3280
+PAT-20174,2024,Research Collaboration (Cologne),Köln,50667,Pathology Liaison,Stage III,Standard Tumor Board,Severe Staff Shortage,7,10181
+PAT-20175,2023,Regional/Local Hospital (Essen Area),Duisburg,47051,Pathology Liaison,Stage I,Standard Tumor Board,Severe Staff Shortage,9,3020
+PAT-20176,2025,Regional/Local Hospital (Essen Area),Essen,45122,Dermatology,Stage IV,Standard Tumor Board,Beds Occupied by Less Severe Cases,17,7474
+PAT-20177,2026,Research Collaboration (Cologne),Köln,50667,Surgical Oncology,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,11568
+PAT-20178,2024,External Referral (Rhine-Ruhr Partner),Bochum,44787,Surgical Oncology,Stage II,Standard Tumor Board,Missing Medical Documents,10,3846
+PAT-20179,2025,Cooperation Partner (Münster),Münster,48149,Hematology,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,12996
+PAT-20180,2023,Internal Clinic (UK Essen Krebscenter),Gelsenkirchen,45879,Sarcomas,Stage III,Standard Tumor Board,Severe Staff Shortage,7,10951
+PAT-20181,2026,External Referral (Rhine-Ruhr Partner),Oberhausen,46045,Sarcomas,Stage IV,Standard Tumor Board,Beds Occupied by Less Severe Cases,18,13178
+PAT-20182,2023,Cooperation Partner (Münster),Münster,48149,Psycho-Oncology,Stage I,Standard Tumor Board,Missing Medical Documents,7,5829
+PAT-20183,2023,Internal Clinic (UK Essen Krebscenter),Essen,45122,Sarcomas,Stage II,Standard Tumor Board,Severe Staff Shortage,9,2859
+PAT-20184,2024,External Referral (Rhine-Ruhr Partner),Duisburg,47051,Surgical Oncology,Stage II,Standard Tumor Board,Severe Staff Shortage,8,3849
+PAT-20185,2026,Research Collaboration (Cologne),Köln,50667,Urology,Stage III,Molecular Tumor Board,None (Smooth Routing),4,11584
+PAT-20186,2023,External Referral (Rhine-Ruhr Partner),Duisburg,47051,Lung Cancer,Stage I,Standard Tumor Board,Missing Medical Documents,8,3540
+PAT-20187,2022,Regional/Local Hospital (Essen Area),Gelsenkirchen,45879,Hematology,Stage I,Standard Tumor Board,In-Person Referral Overload,11,3186
+PAT-20188,2024,Research Collaboration (Cologne),Köln,50667,Pancreatic Cancer,Stage I,Standard Tumor Board,Severe Staff Shortage,10,5007
+PAT-20189,2023,Regional/Local Hospital (Essen Area),Gelsenkirchen,45879,Psycho-Oncology,Stage I,Standard Tumor Board,Severe Staff Shortage,7,4500
+PAT-20190,2024,Research Collaboration (Cologne),Köln,50667,Psycho-Oncology,Stage II,Standard Tumor Board,Severe Staff Shortage,10,4704
+PAT-20191,2023,Cooperation Partner (Münster),Münster,48149,Ocular Oncology (Eyes),Stage IV,Standard Tumor Board,Beds Occupied by Less Severe Cases,20,7488
+PAT-20192,2024,External Referral (Rhine-Ruhr Partner),Dortmund,44135,Pancreatic Cancer,Stage IV,Standard Tumor Board,Lack of Available Beds,19,12006
+PAT-20193,2025,Internal Clinic (UK Essen Krebscenter),Duisburg,47051,Pediatric Oncology,Stage I,Standard Tumor Board,Severe Staff Shortage,7,4309
+PAT-20194,2024,Internal Clinic (UK Essen Krebscenter),Duisburg,47051,Pancreatic Cancer,Stage IV,Standard Tumor Board,Lack of Available Beds,21,9880
+PAT-20195,2022,Research Collaboration (Cologne),Köln,50667,Sarcomas,Stage I,Standard Tumor Board,Missing Medical Documents,4,4059
+PAT-20196,2025,Internal Clinic (UK Essen Krebscenter),Essen,45122,ENT/Head & Neck,Stage III,Molecular Tumor Board,None (Smooth Routing),3,8375
+PAT-20197,2022,Regional/Local Hospital (Essen Area),Duisburg,47051,Neuro-Oncology,Stage I,Standard Tumor Board,In-Person Referral Overload,6,2894
+PAT-20198,2023,Regional/Local Hospital (Essen Area),Essen,45122,Dermatology,Stage I,Standard Tumor Board,Missing Medical Documents,10,3106
+PAT-20199,2026,External Referral (Rhine-Ruhr Partner),Bochum,44787,Neuro-Oncology,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,10262
+PAT-20200,2023,Cooperation Partner (Münster),Münster,48149,Pathology Liaison,Stage II,Standard Tumor Board,Missing Medical Documents,8,5220
+PAT-20201,2026,Cooperation Partner (Münster),Münster,48149,ENT/Head & Neck,Stage I,Standard Tumor Board,Severe Staff Shortage,7,3417
+PAT-20202,2023,Regional/Local Hospital (Essen Area),Duisburg,47051,Psycho-Oncology,Stage I,Standard Tumor Board,Missing Medical Documents,10,5541
+PAT-20203,2022,Internal Clinic (UK Essen Krebscenter),Duisburg,47051,Neuro-Oncology,Stage II,Standard Tumor Board,Missing Medical Documents,9,3787
+PAT-20204,2025,External Referral (Rhine-Ruhr Partner),Oberhausen,46045,Lung Cancer,Stage III,Molecular Tumor Board,None (Smooth Routing),4,8554
+PAT-20205,2026,Internal Clinic (UK Essen Krebscenter),Essen,45122,Urology,Stage IV,Molecular Tumor Board,None (Smooth Routing),4,10609
+PAT-20206,2022,Internal Clinic (UK Essen Krebscenter),Duisburg,47051,Psycho-Oncology,Stage II,Standard Tumor Board,Severe Staff Shortage,9,4669
+PAT-20207,2025,Regional/Local Hospital (Essen Area),Essen,45122,Pediatric Oncology,Stage II,Standard Tumor Board,In-Person Referral Overload,7,3048
+PAT-20208,2024,External Referral (Rhine-Ruhr Partner),Dortmund,44135,Bowel/Colorectal,Stage I,Standard Tumor Board,Missing Medical Documents,10,4640
+PAT-20209,2025,Research Collaboration (Cologne),Köln,50667,Sarcomas,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,11111
+PAT-20210,2025,Internal Clinic (UK Essen Krebscenter),Essen,45122,Bowel/Colorectal,Stage I,Standard Tumor Board,Missing Medical Documents,8,4967
+PAT-20211,2026,Regional/Local Hospital (Essen Area),Gelsenkirchen,45879,Gynecology,Stage IV,Molecular Tumor Board,None (Smooth Routing),4,10781
+PAT-20212,2023,Research Collaboration (Cologne),Köln,50667,Sarcomas,Stage II,Standard Tumor Board,In-Person Referral Overload,9,5458
+PAT-20213,2026,Regional/Local Hospital (Essen Area),Essen,45122,Psycho-Oncology,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,13480
+PAT-20214,2024,Internal Clinic (UK Essen Krebscenter),Essen,45122,Neuro-Oncology,Stage III,Standard Tumor Board,Missing Medical Documents,6,10314
+PAT-20215,2024,Internal Clinic (UK Essen Krebscenter),Duisburg,47051,Pediatric Oncology,Stage II,Standard Tumor Board,Severe Staff Shortage,10,2800
+PAT-20216,2024,Regional/Local Hospital (Essen Area),Essen,45122,Pancreatic Cancer,Stage III,Standard Tumor Board,Missing Medical Documents,8,9391
+PAT-20217,2025,Cooperation Partner (Münster),Münster,48149,Bowel/Colorectal,Stage IV,Standard Tumor Board,Beds Occupied by Less Severe Cases,14,7807
+PAT-20218,2025,Cooperation Partner (Münster),Münster,48149,Dermatology,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,12443
+PAT-20219,2022,Internal Clinic (UK Essen Krebscenter),Essen,45122,Gynecology,Stage IV,Standard Tumor Board,Lack of Available Beds,17,7543
+PAT-20220,2025,Research Collaboration (Cologne),Köln,50667,Pediatric Oncology,Stage III,Molecular Tumor Board,None (Smooth Routing),2,11678
+PAT-20221,2023,External Referral (Rhine-Ruhr Partner),Oberhausen,46045,Dermatology,Stage II,Standard Tumor Board,Missing Medical Documents,8,2625
+PAT-20222,2024,External Referral (Rhine-Ruhr Partner),Bochum,44787,Sarcomas,Stage III,Standard Tumor Board,Missing Medical Documents,10,7418
+PAT-20223,2023,Research Collaboration (Cologne),Köln,50667,Psycho-Oncology,Stage I,Standard Tumor Board,Severe Staff Shortage,6,2628
+PAT-20224,2025,Regional/Local Hospital (Essen Area),Essen,45122,Surgical Oncology,Stage II,Standard Tumor Board,Missing Medical Documents,8,3642
+PAT-20225,2023,Internal Clinic (UK Essen Krebscenter),Essen,45122,Radiology Liaison,Stage III,Standard Tumor Board,In-Person Referral Overload,8,8363
+PAT-20226,2025,Research Collaboration (Cologne),Köln,50667,Ocular Oncology (Eyes),Stage IV,Molecular Tumor Board,None (Smooth Routing),3,7827
+PAT-20227,2026,Internal Clinic (UK Essen Krebscenter),Essen,45122,Neuro-Oncology,Stage III,Molecular Tumor Board,None (Smooth Routing),2,11283
+PAT-20228,2022,Cooperation Partner (Münster),Münster,48149,Urology,Stage II,Standard Tumor Board,Missing Medical Documents,10,5952
+PAT-20229,2026,External Referral (Rhine-Ruhr Partner),Dortmund,44135,Gynecology,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,11950
+PAT-20230,2023,Internal Clinic (UK Essen Krebscenter),Essen,45122,Psycho-Oncology,Stage I,Standard Tumor Board,Severe Staff Shortage,7,3210
+PAT-20231,2024,External Referral (Rhine-Ruhr Partner),Duisburg,47051,Ocular Oncology (Eyes),Stage II,Standard Tumor Board,Missing Medical Documents,10,4649
+PAT-20232,2025,Regional/Local Hospital (Essen Area),Duisburg,47051,Hematology,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,10348
+PAT-20233,2024,Internal Clinic (UK Essen Krebscenter),Essen,45122,Dermatology,Stage III,Standard Tumor Board,In-Person Referral Overload,10,10899
+PAT-20234,2023,Regional/Local Hospital (Essen Area),Duisburg,47051,Lung Cancer,Stage II,Standard Tumor Board,In-Person Referral Overload,8,4974
+PAT-20235,2026,Internal Clinic (UK Essen Krebscenter),Essen,45122,Dermatology,Stage IV,Molecular Tumor Board,None (Smooth Routing),4,10646
+PAT-20236,2026,Research Collaboration (Cologne),Köln,50667,Neuro-Oncology,Stage II,Standard Tumor Board,In-Person Referral Overload,7,3463
+PAT-20237,2026,Regional/Local Hospital (Essen Area),Essen,45122,Pediatric Oncology,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,8181
+PAT-20238,2026,External Referral (Rhine-Ruhr Partner),Oberhausen,46045,Radiology Liaison,Stage II,Standard Tumor Board,Missing Medical Documents,7,5922
+PAT-20239,2023,Regional/Local Hospital (Essen Area),Gelsenkirchen,45879,Ocular Oncology (Eyes),Stage II,Standard Tumor Board,Missing Medical Documents,9,3607
+PAT-20240,2026,Research Collaboration (Cologne),Köln,50667,Ocular Oncology (Eyes),Stage III,Molecular Tumor Board,None (Smooth Routing),5,11981
+PAT-20241,2026,Regional/Local Hospital (Essen Area),Essen,45122,Urology,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,13325
+PAT-20242,2024,Cooperation Partner (Münster),Münster,48149,Radiology Liaison,Stage I,Standard Tumor Board,Severe Staff Shortage,9,2549
+PAT-20243,2026,Internal Clinic (UK Essen Krebscenter),Essen,45122,Pediatric Oncology,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,11176
+PAT-20244,2025,Research Collaboration (Cologne),Köln,50667,Gynecology,Stage III,Standard Tumor Board,Severe Staff Shortage,7,7161
+PAT-20245,2025,Research Collaboration (Cologne),Köln,50667,Pathology Liaison,Stage III,Molecular Tumor Board,None (Smooth Routing),2,6940
+PAT-20246,2026,Regional/Local Hospital (Essen Area),Essen,45122,Pediatric Oncology,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,13280
+PAT-20247,2023,Research Collaboration (Cologne),Köln,50667,ENT/Head & Neck,Stage I,Standard Tumor Board,Severe Staff Shortage,10,2852
+PAT-20248,2024,Internal Clinic (UK Essen Krebscenter),Essen,45122,Ocular Oncology (Eyes),Stage I,Standard Tumor Board,In-Person Referral Overload,9,4304
+PAT-20249,2022,Regional/Local Hospital (Essen Area),Essen,45122,Surgical Oncology,Stage II,Standard Tumor Board,Missing Medical Documents,9,4928
+PAT-20250,2024,Cooperation Partner (Münster),Münster,48149,Neuro-Oncology,Stage I,Standard Tumor Board,Missing Medical Documents,11,5317
+PAT-20251,2024,Regional/Local Hospital (Essen Area),Gelsenkirchen,45879,Hematology,Stage II,Standard Tumor Board,In-Person Referral Overload,9,4368
+PAT-20252,2025,Regional/Local Hospital (Essen Area),Essen,45122,Pathology Liaison,Stage II,Standard Tumor Board,Severe Staff Shortage,7,3132
+PAT-20253,2025,Research Collaboration (Cologne),Köln,50667,Lung Cancer,Stage III,Molecular Tumor Board,None (Smooth Routing),4,13946
+PAT-20254,2023,Cooperation Partner (Münster),Münster,48149,Dermatology,Stage II,Standard Tumor Board,In-Person Referral Overload,7,4868
+PAT-20255,2023,Internal Clinic (UK Essen Krebscenter),Essen,45122,Hematology,Stage III,Standard Tumor Board,Missing Medical Documents,8,9007
+PAT-20256,2023,Internal Clinic (UK Essen Krebscenter),Essen,45122,Sarcomas,Stage I,Standard Tumor Board,Missing Medical Documents,6,5296
+PAT-20257,2023,Cooperation Partner (Münster),Münster,48149,Ocular Oncology (Eyes),Stage I,Standard Tumor Board,Severe Staff Shortage,6,4225
+PAT-20258,2026,External Referral (Rhine-Ruhr Partner),Bochum,44787,Gynecology,Stage III,Molecular Tumor Board,None (Smooth Routing),2,8690
+PAT-20259,2026,Research Collaboration (Cologne),Köln,50667,Radiology Liaison,Stage III,Molecular Tumor Board,None (Smooth Routing),3,8326
+PAT-20260,2024,Cooperation Partner (Münster),Münster,48149,ENT/Head & Neck,Stage III,Standard Tumor Board,Severe Staff Shortage,6,6572
+PAT-20261,2025,Regional/Local Hospital (Essen Area),Essen,45122,Gynecology,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,12156
+PAT-20262,2024,Internal Clinic (UK Essen Krebscenter),Essen,45122,Ocular Oncology (Eyes),Stage IV,Standard Tumor Board,Beds Occupied by Less Severe Cases,17,11417
+PAT-20263,2026,Research Collaboration (Cologne),Köln,50667,Sarcomas,Stage III,Molecular Tumor Board,None (Smooth Routing),3,13637
+PAT-20264,2023,Cooperation Partner (Münster),Münster,48149,Sarcomas,Stage II,Standard Tumor Board,Missing Medical Documents,7,3042
+PAT-20265,2026,Regional/Local Hospital (Essen Area),Essen,45122,Surgical Oncology,Stage II,Standard Tumor Board,Severe Staff Shortage,9,5014
+PAT-20266,2022,Internal Clinic (UK Essen Krebscenter),Essen,45122,Pediatric Oncology,Stage I,Standard Tumor Board,In-Person Referral Overload,6,3189
+PAT-20267,2024,Internal Clinic (UK Essen Krebscenter),Duisburg,47051,Pathology Liaison,Stage I,Standard Tumor Board,Severe Staff Shortage,9,3382
+PAT-20268,2025,Cooperation Partner (Münster),Münster,48149,Bowel/Colorectal,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,8138
+PAT-20269,2023,Regional/Local Hospital (Essen Area),Essen,45122,Lung Cancer,Stage II,Standard Tumor Board,In-Person Referral Overload,7,4097
+PAT-20270,2024,Research Collaboration (Cologne),Köln,50667,Pancreatic Cancer,Stage I,Standard Tumor Board,Missing Medical Documents,8,4544
+PAT-20271,2026,Regional/Local Hospital (Essen Area),Essen,45122,Dermatology,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,7400
+PAT-20272,2022,Research Collaboration (Cologne),Köln,50667,Gynecology,Stage II,Standard Tumor Board,In-Person Referral Overload,8,4885
+PAT-20273,2022,Research Collaboration (Cologne),Köln,50667,Bowel/Colorectal,Stage II,Standard Tumor Board,Severe Staff Shortage,9,4855
+PAT-20274,2023,Cooperation Partner (Münster),Münster,48149,ENT/Head & Neck,Stage I,Standard Tumor Board,Missing Medical Documents,5,3123
+PAT-20275,2024,Regional/Local Hospital (Essen Area),Duisburg,47051,Neuro-Oncology,Stage I,Standard Tumor Board,In-Person Referral Overload,7,2604
+PAT-20276,2025,Cooperation Partner (Münster),Münster,48149,Pathology Liaison,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,10131
+PAT-20277,2025,Internal Clinic (UK Essen Krebscenter),Essen,45122,Gynecology,Stage III,Molecular Tumor Board,None (Smooth Routing),3,13599
+PAT-20278,2026,Internal Clinic (UK Essen Krebscenter),Essen,45122,Dermatology,Stage IV,Standard Tumor Board,Lack of Available Beds,16,7531
+PAT-20279,2022,Cooperation Partner (Münster),Münster,48149,Hematology,Stage I,Standard Tumor Board,Missing Medical Documents,8,4824
+PAT-20280,2024,External Referral (Rhine-Ruhr Partner),Oberhausen,46045,Lung Cancer,Stage I,Standard Tumor Board,Severe Staff Shortage,10,5046
+PAT-20281,2023,Cooperation Partner (Münster),Münster,48149,Neuro-Oncology,Stage I,Standard Tumor Board,Severe Staff Shortage,9,5908
+PAT-20282,2026,Regional/Local Hospital (Essen Area),Essen,45122,Hematology,Stage IV,Molecular Tumor Board,None (Smooth Routing),4,7462
+PAT-20283,2025,Regional/Local Hospital (Essen Area),Essen,45122,Radiology Liaison,Stage III,Molecular Tumor Board,None (Smooth Routing),3,10247
+PAT-20284,2026,Cooperation Partner (Münster),Münster,48149,Neuro-Oncology,Stage III,Molecular Tumor Board,None (Smooth Routing),3,11845
+PAT-20285,2023,Cooperation Partner (Münster),Münster,48149,Pathology Liaison,Stage I,Standard Tumor Board,Missing Medical Documents,8,5532
+PAT-20286,2026,Cooperation Partner (Münster),Münster,48149,ENT/Head & Neck,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,9859
+PAT-20287,2026,Regional/Local Hospital (Essen Area),Essen,45122,Bowel/Colorectal,Stage IV,Molecular Tumor Board,None (Smooth Routing),4,13665
+PAT-20288,2026,Cooperation Partner (Münster),Münster,48149,Hematology,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,8259
+PAT-20289,2026,Regional/Local Hospital (Essen Area),Essen,45122,Sarcomas,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,11058
+PAT-20290,2026,Cooperation Partner (Münster),Münster,48149,Urology,Stage III,Molecular Tumor Board,None (Smooth Routing),3,6960
+PAT-20291,2025,Research Collaboration (Cologne),Köln,50667,Neuro-Oncology,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,11649
+PAT-20292,2025,Regional/Local Hospital (Essen Area),Essen,45122,Surgical Oncology,Stage III,Molecular Tumor Board,None (Smooth Routing),2,12772
+PAT-20293,2023,External Referral (Rhine-Ruhr Partner),Dortmund,44135,Surgical Oncology,Stage III,Standard Tumor Board,In-Person Referral Overload,9,9581
+PAT-20294,2025,Regional/Local Hospital (Essen Area),Essen,45122,Psycho-Oncology,Stage IV,Molecular Tumor Board,None (Smooth Routing),4,11632
+PAT-20295,2026,Internal Clinic (UK Essen Krebscenter),Gelsenkirchen,45879,Bowel/Colorectal,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,13687
+PAT-20296,2023,External Referral (Rhine-Ruhr Partner),Dortmund,44135,Psycho-Oncology,Stage II,Standard Tumor Board,Severe Staff Shortage,11,3197
+PAT-20297,2026,Research Collaboration (Cologne),Köln,50667,Pediatric Oncology,Stage II,Standard Tumor Board,Severe Staff Shortage,7,3321
+PAT-20298,2022,Cooperation Partner (Münster),Münster,48149,Neuro-Oncology,Stage I,Standard Tumor Board,In-Person Referral Overload,8,3580
+PAT-20299,2024,Research Collaboration (Cologne),Köln,50667,ENT/Head & Neck,Stage II,Standard Tumor Board,Missing Medical Documents,7,2835
+PAT-20300,2025,Regional/Local Hospital (Essen Area),Essen,45122,Lung Cancer,Stage I,Standard Tumor Board,Severe Staff Shortage,7,4438
+PAT-20301,2025,Research Collaboration (Cologne),Köln,50667,Bowel/Colorectal,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,9474
+PAT-20302,2024,Internal Clinic (UK Essen Krebscenter),Essen,45122,Sarcomas,Stage I,Standard Tumor Board,Severe Staff Shortage,9,3669
+PAT-20303,2025,Research Collaboration (Cologne),Köln,50667,Pancreatic Cancer,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,10756
+PAT-20304,2025,Cooperation Partner (Münster),Münster,48149,Surgical Oncology,Stage II,Standard Tumor Board,Severe Staff Shortage,11,2574
+PAT-20305,2023,External Referral (Rhine-Ruhr Partner),Dortmund,44135,Sarcomas,Stage IV,Standard Tumor Board,Lack of Available Beds,20,12238
+PAT-20306,2026,External Referral (Rhine-Ruhr Partner),Dortmund,44135,Sarcomas,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,9110
+PAT-20307,2026,Cooperation Partner (Münster),Münster,48149,Sarcomas,Stage III,Molecular Tumor Board,None (Smooth Routing),1,8596
+PAT-20308,2026,Cooperation Partner (Münster),Münster,48149,Lung Cancer,Stage II,Standard Tumor Board,Severe Staff Shortage,8,3137
+PAT-20309,2026,Cooperation Partner (Münster),Münster,48149,Pathology Liaison,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,11213
+PAT-20310,2023,Regional/Local Hospital (Essen Area),Essen,45122,Pediatric Oncology,Stage I,Standard Tumor Board,Severe Staff Shortage,10,5753
+PAT-20311,2022,External Referral (Rhine-Ruhr Partner),Duisburg,47051,Sarcomas,Stage III,Standard Tumor Board,Severe Staff Shortage,8,8797
+PAT-20312,2023,External Referral (Rhine-Ruhr Partner),Oberhausen,46045,Lung Cancer,Stage I,Standard Tumor Board,Severe Staff Shortage,9,5641
+PAT-20313,2024,Research Collaboration (Cologne),Köln,50667,Hematology,Stage II,Standard Tumor Board,Missing Medical Documents,7,3949
+PAT-20314,2024,Research Collaboration (Cologne),Köln,50667,Surgical Oncology,Stage II,Standard Tumor Board,In-Person Referral Overload,9,4861
+PAT-20315,2023,External Referral (Rhine-Ruhr Partner),Dortmund,44135,Hematology,Stage I,Standard Tumor Board,In-Person Referral Overload,6,3352
+PAT-20316,2023,Cooperation Partner (Münster),Münster,48149,Ocular Oncology (Eyes),Stage I,Standard Tumor Board,Missing Medical Documents,8,3394
+PAT-20317,2024,Regional/Local Hospital (Essen Area),Essen,45122,Hematology,Stage I,Standard Tumor Board,In-Person Referral Overload,7,4590
+PAT-20318,2026,Regional/Local Hospital (Essen Area),Essen,45122,Ocular Oncology (Eyes),Stage III,Molecular Tumor Board,None (Smooth Routing),2,11448
+PAT-20319,2022,Research Collaboration (Cologne),Köln,50667,Surgical Oncology,Stage I,Standard Tumor Board,Severe Staff Shortage,9,5657
+PAT-20320,2024,External Referral (Rhine-Ruhr Partner),Duisburg,47051,Bowel/Colorectal,Stage I,Standard Tumor Board,Severe Staff Shortage,5,4790
+PAT-20321,2026,Cooperation Partner (Münster),Münster,48149,Radiology Liaison,Stage III,Standard Tumor Board,In-Person Referral Overload,8,12857
+PAT-20322,2025,External Referral (Rhine-Ruhr Partner),Dortmund,44135,Lung Cancer,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,9548
+PAT-20323,2025,Cooperation Partner (Münster),Münster,48149,Hematology,Stage III,Molecular Tumor Board,None (Smooth Routing),4,13764
+PAT-20324,2026,Internal Clinic (UK Essen Krebscenter),Essen,45122,Psycho-Oncology,Stage IV,Molecular Tumor Board,None (Smooth Routing),1,12046
+PAT-20325,2026,Internal Clinic (UK Essen Krebscenter),Essen,45122,Lung Cancer,Stage III,Molecular Tumor Board,None (Smooth Routing),3,12563
+PAT-20326,2024,Cooperation Partner (Münster),Münster,48149,Bowel/Colorectal,Stage II,Standard Tumor Board,Severe Staff Shortage,6,4933
+PAT-20327,2026,Internal Clinic (UK Essen Krebscenter),Essen,45122,Pancreatic Cancer,Stage IV,Molecular Tumor Board,None (Smooth Routing),4,11610
+PAT-20328,2026,Research Collaboration (Cologne),Köln,50667,Bowel/Colorectal,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,8807
+PAT-20329,2024,Research Collaboration (Cologne),Köln,50667,Ocular Oncology (Eyes),Stage I,Standard Tumor Board,In-Person Referral Overload,7,3169
+PAT-20330,2024,External Referral (Rhine-Ruhr Partner),Oberhausen,46045,Bowel/Colorectal,Stage III,Standard Tumor Board,Severe Staff Shortage,7,10211
+PAT-20331,2022,Research Collaboration (Cologne),Köln,50667,Lung Cancer,Stage III,Standard Tumor Board,In-Person Referral Overload,8,6726
+PAT-20332,2024,Regional/Local Hospital (Essen Area),Essen,45122,Pathology Liaison,Stage III,Standard Tumor Board,Missing Medical Documents,8,12014
+PAT-20333,2024,Cooperation Partner (Münster),Münster,48149,Gynecology,Stage III,Standard Tumor Board,Missing Medical Documents,10,11071
+PAT-20334,2023,Regional/Local Hospital (Essen Area),Essen,45122,Dermatology,Stage I,Standard Tumor Board,Severe Staff Shortage,7,3480
+PAT-20335,2024,Internal Clinic (UK Essen Krebscenter),Duisburg,47051,Radiology Liaison,Stage II,Standard Tumor Board,Missing Medical Documents,7,4174
+PAT-20336,2026,Research Collaboration (Cologne),Köln,50667,Pediatric Oncology,Stage I,Standard Tumor Board,Missing Medical Documents,10,4819
+PAT-20337,2022,Cooperation Partner (Münster),Münster,48149,Psycho-Oncology,Stage I,Standard Tumor Board,In-Person Referral Overload,6,2623
+PAT-20338,2026,External Referral (Rhine-Ruhr Partner),Duisburg,47051,Psycho-Oncology,Stage I,Standard Tumor Board,In-Person Referral Overload,7,2941
+PAT-20339,2022,Cooperation Partner (Münster),Münster,48149,Pathology Liaison,Stage I,Standard Tumor Board,In-Person Referral Overload,6,4519
+PAT-20340,2025,Regional/Local Hospital (Essen Area),Essen,45122,Pediatric Oncology,Stage I,Standard Tumor Board,Severe Staff Shortage,6,3145
+PAT-20341,2023,External Referral (Rhine-Ruhr Partner),Oberhausen,46045,Dermatology,Stage II,Standard Tumor Board,Severe Staff Shortage,6,4065
+PAT-20342,2022,Regional/Local Hospital (Essen Area),Gelsenkirchen,45879,Lung Cancer,Stage I,Standard Tumor Board,In-Person Referral Overload,9,3161
+PAT-20343,2025,Research Collaboration (Cologne),Köln,50667,Pathology Liaison,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,13994
+PAT-20344,2025,Cooperation Partner (Münster),Münster,48149,Bowel/Colorectal,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,11382
+PAT-20345,2024,Internal Clinic (UK Essen Krebscenter),Essen,45122,Hematology,Stage I,Standard Tumor Board,In-Person Referral Overload,7,5947
+PAT-20346,2026,External Referral (Rhine-Ruhr Partner),Bochum,44787,Dermatology,Stage III,Molecular Tumor Board,None (Smooth Routing),2,8769
+PAT-20347,2024,Research Collaboration (Cologne),Köln,50667,Hematology,Stage I,Standard Tumor Board,In-Person Referral Overload,9,3585
+PAT-20348,2023,Regional/Local Hospital (Essen Area),Essen,45122,Bowel/Colorectal,Stage II,Standard Tumor Board,In-Person Referral Overload,7,3160
+PAT-20349,2024,Research Collaboration (Cologne),Köln,50667,Dermatology,Stage I,Standard Tumor Board,Severe Staff Shortage,7,4428
+PAT-20350,2026,Research Collaboration (Cologne),Köln,50667,Hematology,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,6842
+PAT-20351,2025,Cooperation Partner (Münster),Münster,48149,Pathology Liaison,Stage III,Molecular Tumor Board,None (Smooth Routing),1,13248
+PAT-20352,2026,Research Collaboration (Cologne),Köln,50667,Neuro-Oncology,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,10774
+PAT-20353,2024,Cooperation Partner (Münster),Münster,48149,Sarcomas,Stage IV,Standard Tumor Board,Lack of Available Beds,17,6693
+PAT-20354,2024,Internal Clinic (UK Essen Krebscenter),Essen,45122,Pathology Liaison,Stage II,Standard Tumor Board,Missing Medical Documents,8,5120
+PAT-20355,2023,Cooperation Partner (Münster),Münster,48149,Pediatric Oncology,Stage I,Standard Tumor Board,In-Person Referral Overload,5,4347
+PAT-20356,2024,Internal Clinic (UK Essen Krebscenter),Essen,45122,Neuro-Oncology,Stage III,Standard Tumor Board,In-Person Referral Overload,10,11150
+PAT-20357,2025,Internal Clinic (UK Essen Krebscenter),Essen,45122,ENT/Head & Neck,Stage III,Molecular Tumor Board,None (Smooth Routing),2,12168
+PAT-20358,2026,Internal Clinic (UK Essen Krebscenter),Essen,45122,Dermatology,Stage III,Molecular Tumor Board,None (Smooth Routing),2,12323
+PAT-20359,2024,Research Collaboration (Cologne),Köln,50667,Bowel/Colorectal,Stage III,Standard Tumor Board,In-Person Referral Overload,6,12632
+PAT-20360,2025,Regional/Local Hospital (Essen Area),Gelsenkirchen,45879,Surgical Oncology,Stage III,Molecular Tumor Board,None (Smooth Routing),3,9821
+PAT-20361,2022,Regional/Local Hospital (Essen Area),Essen,45122,Lung Cancer,Stage II,Standard Tumor Board,Missing Medical Documents,9,5186
+PAT-20362,2022,Cooperation Partner (Münster),Münster,48149,Urology,Stage I,Standard Tumor Board,In-Person Referral Overload,5,3636
+PAT-20363,2025,Internal Clinic (UK Essen Krebscenter),Essen,45122,Gynecology,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,8342
+PAT-20364,2022,Internal Clinic (UK Essen Krebscenter),Essen,45122,Gynecology,Stage I,Standard Tumor Board,Severe Staff Shortage,7,4063
+PAT-20365,2026,Regional/Local Hospital (Essen Area),Essen,45122,Neuro-Oncology,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,10593
+PAT-20366,2024,Regional/Local Hospital (Essen Area),Gelsenkirchen,45879,Psycho-Oncology,Stage II,Standard Tumor Board,In-Person Referral Overload,8,3073
+PAT-20367,2026,External Referral (Rhine-Ruhr Partner),Bochum,44787,Neuro-Oncology,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,13063
+PAT-20368,2023,Cooperation Partner (Münster),Münster,48149,Dermatology,Stage III,Standard Tumor Board,Missing Medical Documents,7,9935
+PAT-20369,2025,External Referral (Rhine-Ruhr Partner),Duisburg,47051,Pathology Liaison,Stage III,Molecular Tumor Board,None (Smooth Routing),1,13315
+PAT-20370,2025,Regional/Local Hospital (Essen Area),Essen,45122,Lung Cancer,Stage III,Molecular Tumor Board,None (Smooth Routing),3,9480
+PAT-20371,2024,External Referral (Rhine-Ruhr Partner),Oberhausen,46045,Gynecology,Stage II,Standard Tumor Board,Severe Staff Shortage,9,4002
+PAT-20372,2024,Research Collaboration (Cologne),Köln,50667,Ocular Oncology (Eyes),Stage I,Standard Tumor Board,Missing Medical Documents,8,3915
+PAT-20373,2025,Research Collaboration (Cologne),Köln,50667,Urology,Stage IV,Molecular Tumor Board,None (Smooth Routing),4,7957
+PAT-20374,2022,Research Collaboration (Cologne),Köln,50667,Pancreatic Cancer,Stage II,Standard Tumor Board,Missing Medical Documents,8,3678
+PAT-20375,2023,Research Collaboration (Cologne),Köln,50667,Gynecology,Stage I,Standard Tumor Board,In-Person Referral Overload,7,3410
+PAT-20376,2023,Research Collaboration (Cologne),Köln,50667,Dermatology,Stage III,Standard Tumor Board,In-Person Referral Overload,4,12813
+PAT-20377,2026,Research Collaboration (Cologne),Köln,50667,Pathology Liaison,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,10654
+PAT-20378,2024,Cooperation Partner (Münster),Münster,48149,Sarcomas,Stage IV,Standard Tumor Board,Lack of Available Beds,21,9640
+PAT-20379,2025,External Referral (Rhine-Ruhr Partner),Bochum,44787,Pancreatic Cancer,Stage IV,Molecular Tumor Board,None (Smooth Routing),4,7877
+PAT-20380,2023,Cooperation Partner (Münster),Münster,48149,Ocular Oncology (Eyes),Stage II,Standard Tumor Board,Severe Staff Shortage,5,4056
+PAT-20381,2025,Research Collaboration (Cologne),Köln,50667,Hematology,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,7634
+PAT-20382,2023,Cooperation Partner (Münster),Münster,48149,Sarcomas,Stage IV,Standard Tumor Board,Lack of Available Beds,16,8651
+PAT-20383,2025,Internal Clinic (UK Essen Krebscenter),Duisburg,47051,Hematology,Stage I,Standard Tumor Board,Severe Staff Shortage,10,4409
+PAT-20384,2023,External Referral (Rhine-Ruhr Partner),Bochum,44787,Pancreatic Cancer,Stage IV,Standard Tumor Board,Lack of Available Beds,15,8208
+PAT-20385,2025,Cooperation Partner (Münster),Münster,48149,Pathology Liaison,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,12201
+PAT-20386,2024,Cooperation Partner (Münster),Münster,48149,Surgical Oncology,Stage I,Standard Tumor Board,Missing Medical Documents,5,3363
+PAT-20387,2023,External Referral (Rhine-Ruhr Partner),Oberhausen,46045,Ocular Oncology (Eyes),Stage II,Standard Tumor Board,In-Person Referral Overload,10,3203
+PAT-20388,2024,External Referral (Rhine-Ruhr Partner),Bochum,44787,Ocular Oncology (Eyes),Stage III,Standard Tumor Board,Severe Staff Shortage,10,11199
+PAT-20389,2026,Internal Clinic (UK Essen Krebscenter),Essen,45122,Pediatric Oncology,Stage II,Standard Tumor Board,In-Person Referral Overload,11,5488
+PAT-20390,2025,External Referral (Rhine-Ruhr Partner),Oberhausen,46045,Ocular Oncology (Eyes),Stage IV,Molecular Tumor Board,None (Smooth Routing),5,11942
+PAT-20391,2026,Research Collaboration (Cologne),Köln,50667,Surgical Oncology,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,12345
+PAT-20392,2025,Research Collaboration (Cologne),Köln,50667,Radiology Liaison,Stage IV,Molecular Tumor Board,None (Smooth Routing),4,8499
+PAT-20393,2024,External Referral (Rhine-Ruhr Partner),Bochum,44787,ENT/Head & Neck,Stage I,Standard Tumor Board,Missing Medical Documents,7,4811
+PAT-20394,2026,External Referral (Rhine-Ruhr Partner),Dortmund,44135,Psycho-Oncology,Stage I,Standard Tumor Board,In-Person Referral Overload,7,5863
+PAT-20395,2022,Internal Clinic (UK Essen Krebscenter),Duisburg,47051,Hematology,Stage III,Standard Tumor Board,Severe Staff Shortage,8,10247
+PAT-20396,2025,Regional/Local Hospital (Essen Area),Essen,45122,Hematology,Stage III,Molecular Tumor Board,None (Smooth Routing),3,13927
+PAT-20397,2022,Regional/Local Hospital (Essen Area),Essen,45122,Bowel/Colorectal,Stage II,Standard Tumor Board,Severe Staff Shortage,7,4630
+PAT-20398,2026,Regional/Local Hospital (Essen Area),Duisburg,47051,Gynecology,Stage I,Standard Tumor Board,Missing Medical Documents,8,5929
+PAT-20399,2023,External Referral (Rhine-Ruhr Partner),Duisburg,47051,Bowel/Colorectal,Stage III,Standard Tumor Board,Missing Medical Documents,7,7738
+PAT-20400,2023,Research Collaboration (Cologne),Köln,50667,Psycho-Oncology,Stage IV,Standard Tumor Board,Lack of Available Beds,18,13898
+PAT-20401,2026,External Referral (Rhine-Ruhr Partner),Dortmund,44135,Dermatology,Stage II,Standard Tumor Board,Missing Medical Documents,6,3804
+PAT-20402,2023,Regional/Local Hospital (Essen Area),Essen,45122,Psycho-Oncology,Stage II,Standard Tumor Board,Missing Medical Documents,8,3979
+PAT-20403,2023,Research Collaboration (Cologne),Köln,50667,Bowel/Colorectal,Stage I,Standard Tumor Board,Severe Staff Shortage,7,4955
+PAT-20404,2025,External Referral (Rhine-Ruhr Partner),Oberhausen,46045,Urology,Stage II,Standard Tumor Board,Missing Medical Documents,6,5323
+PAT-20405,2026,External Referral (Rhine-Ruhr Partner),Dortmund,44135,Hematology,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,12335
+PAT-20406,2022,Regional/Local Hospital (Essen Area),Duisburg,47051,Ocular Oncology (Eyes),Stage II,Standard Tumor Board,In-Person Referral Overload,7,4841
+PAT-20407,2022,Internal Clinic (UK Essen Krebscenter),Duisburg,47051,Ocular Oncology (Eyes),Stage I,Standard Tumor Board,Missing Medical Documents,10,2927
+PAT-20408,2026,Cooperation Partner (Münster),Münster,48149,Sarcomas,Stage III,Molecular Tumor Board,None (Smooth Routing),3,13334
+PAT-20409,2024,Regional/Local Hospital (Essen Area),Essen,45122,Pancreatic Cancer,Stage III,Standard Tumor Board,In-Person Referral Overload,11,10296
+PAT-20410,2026,Cooperation Partner (Münster),Münster,48149,Dermatology,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,7022
+PAT-20411,2022,Research Collaboration (Cologne),Köln,50667,Pediatric Oncology,Stage II,Standard Tumor Board,In-Person Referral Overload,10,5357
+PAT-20412,2024,Internal Clinic (UK Essen Krebscenter),Essen,45122,Surgical Oncology,Stage I,Standard Tumor Board,Missing Medical Documents,10,4019
+PAT-20413,2022,Regional/Local Hospital (Essen Area),Essen,45122,Psycho-Oncology,Stage III,Standard Tumor Board,Severe Staff Shortage,9,11719
+PAT-20414,2025,External Referral (Rhine-Ruhr Partner),Bochum,44787,Pathology Liaison,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,11547
+PAT-20415,2022,Cooperation Partner (Münster),Münster,48149,Pathology Liaison,Stage I,Standard Tumor Board,Severe Staff Shortage,9,4821
+PAT-20416,2024,Cooperation Partner (Münster),Münster,48149,Bowel/Colorectal,Stage I,Standard Tumor Board,Missing Medical Documents,8,5035
+PAT-20417,2023,Internal Clinic (UK Essen Krebscenter),Essen,45122,Pediatric Oncology,Stage II,Standard Tumor Board,In-Person Referral Overload,8,4173
+PAT-20418,2023,Research Collaboration (Cologne),Köln,50667,Dermatology,Stage II,Standard Tumor Board,Missing Medical Documents,8,5673
+PAT-20419,2024,Cooperation Partner (Münster),Münster,48149,Ocular Oncology (Eyes),Stage IV,Standard Tumor Board,Lack of Available Beds,10,11136
+PAT-20420,2026,Internal Clinic (UK Essen Krebscenter),Essen,45122,Bowel/Colorectal,Stage III,Molecular Tumor Board,None (Smooth Routing),2,9727
+PAT-20421,2026,External Referral (Rhine-Ruhr Partner),Oberhausen,46045,Neuro-Oncology,Stage I,Standard Tumor Board,Missing Medical Documents,7,5292
+PAT-20422,2023,Research Collaboration (Cologne),Köln,50667,Psycho-Oncology,Stage I,Standard Tumor Board,In-Person Referral Overload,7,3164
+PAT-20423,2025,External Referral (Rhine-Ruhr Partner),Dortmund,44135,Bowel/Colorectal,Stage I,Standard Tumor Board,In-Person Referral Overload,9,2983
+PAT-20424,2026,External Referral (Rhine-Ruhr Partner),Duisburg,47051,Urology,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,10820
+PAT-20425,2023,Internal Clinic (UK Essen Krebscenter),Gelsenkirchen,45879,Hematology,Stage I,Standard Tumor Board,In-Person Referral Overload,7,3749
+PAT-20426,2025,Cooperation Partner (Münster),Münster,48149,Psycho-Oncology,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,12221
+PAT-20427,2025,Cooperation Partner (Münster),Münster,48149,Pancreatic Cancer,Stage IV,Molecular Tumor Board,None (Smooth Routing),1,6777
+PAT-20428,2023,Internal Clinic (UK Essen Krebscenter),Essen,45122,Bowel/Colorectal,Stage II,Standard Tumor Board,Severe Staff Shortage,6,3917
+PAT-20429,2026,Cooperation Partner (Münster),Münster,48149,Hematology,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,8494
+PAT-20430,2024,Cooperation Partner (Münster),Münster,48149,Lung Cancer,Stage I,Standard Tumor Board,Severe Staff Shortage,8,4092
+PAT-20431,2025,Cooperation Partner (Münster),Münster,48149,Gynecology,Stage I,Standard Tumor Board,Severe Staff Shortage,7,4908
+PAT-20432,2022,External Referral (Rhine-Ruhr Partner),Bochum,44787,Ocular Oncology (Eyes),Stage IV,Standard Tumor Board,Lack of Available Beds,18,12658
+PAT-20433,2025,Research Collaboration (Cologne),Köln,50667,ENT/Head & Neck,Stage III,Standard Tumor Board,Missing Medical Documents,8,9794
+PAT-20434,2026,External Referral (Rhine-Ruhr Partner),Duisburg,47051,Hematology,Stage II,Standard Tumor Board,In-Person Referral Overload,7,5732
+PAT-20435,2026,Cooperation Partner (Münster),Münster,48149,Surgical Oncology,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,13203
+PAT-20436,2026,External Referral (Rhine-Ruhr Partner),Dortmund,44135,ENT/Head & Neck,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,12220
+PAT-20437,2022,External Referral (Rhine-Ruhr Partner),Dortmund,44135,Neuro-Oncology,Stage I,Standard Tumor Board,Missing Medical Documents,7,4672
+PAT-20438,2025,Regional/Local Hospital (Essen Area),Gelsenkirchen,45879,Pancreatic Cancer,Stage III,Molecular Tumor Board,None (Smooth Routing),4,7019
+PAT-20439,2023,Internal Clinic (UK Essen Krebscenter),Essen,45122,Ocular Oncology (Eyes),Stage II,Standard Tumor Board,Missing Medical Documents,8,5301
+PAT-20440,2026,Regional/Local Hospital (Essen Area),Duisburg,47051,Bowel/Colorectal,Stage I,Standard Tumor Board,Missing Medical Documents,7,5727
+PAT-20441,2024,Research Collaboration (Cologne),Köln,50667,Surgical Oncology,Stage I,Standard Tumor Board,In-Person Referral Overload,9,5726
+PAT-20442,2024,Regional/Local Hospital (Essen Area),Gelsenkirchen,45879,Bowel/Colorectal,Stage II,Standard Tumor Board,Severe Staff Shortage,6,3961
+PAT-20443,2025,External Referral (Rhine-Ruhr Partner),Bochum,44787,Pediatric Oncology,Stage I,Standard Tumor Board,In-Person Referral Overload,6,5265
+PAT-20444,2026,Research Collaboration (Cologne),Köln,50667,Lung Cancer,Stage III,Molecular Tumor Board,None (Smooth Routing),2,9662
+PAT-20445,2026,Research Collaboration (Cologne),Köln,50667,Neuro-Oncology,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,8460
+PAT-20446,2025,Research Collaboration (Cologne),Köln,50667,Pancreatic Cancer,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,12742
+PAT-20447,2024,Research Collaboration (Cologne),Köln,50667,Psycho-Oncology,Stage IV,Standard Tumor Board,Beds Occupied by Less Severe Cases,17,11000
+PAT-20448,2026,Cooperation Partner (Münster),Münster,48149,Lung Cancer,Stage III,Molecular Tumor Board,None (Smooth Routing),2,9680
+PAT-20449,2026,External Referral (Rhine-Ruhr Partner),Duisburg,47051,Bowel/Colorectal,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,12509
+PAT-20450,2024,External Referral (Rhine-Ruhr Partner),Duisburg,47051,Pediatric Oncology,Stage I,Standard Tumor Board,In-Person Referral Overload,9,4482
+PAT-20451,2024,Internal Clinic (UK Essen Krebscenter),Essen,45122,Lung Cancer,Stage I,Standard Tumor Board,Severe Staff Shortage,9,5752
+PAT-20452,2026,Internal Clinic (UK Essen Krebscenter),Essen,45122,Urology,Stage II,Standard Tumor Board,Missing Medical Documents,10,3199
+PAT-20453,2023,Research Collaboration (Cologne),Köln,50667,Psycho-Oncology,Stage I,Standard Tumor Board,Severe Staff Shortage,7,2711
+PAT-20454,2026,Cooperation Partner (Münster),Münster,48149,Neuro-Oncology,Stage IV,Molecular Tumor Board,None (Smooth Routing),4,11439
+PAT-20455,2026,Research Collaboration (Cologne),Köln,50667,Psycho-Oncology,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,13180
+PAT-20456,2023,External Referral (Rhine-Ruhr Partner),Oberhausen,46045,Pathology Liaison,Stage I,Standard Tumor Board,Severe Staff Shortage,9,4409
+PAT-20457,2024,External Referral (Rhine-Ruhr Partner),Oberhausen,46045,Hematology,Stage II,Standard Tumor Board,Missing Medical Documents,7,4322
+PAT-20458,2025,Internal Clinic (UK Essen Krebscenter),Essen,45122,Pancreatic Cancer,Stage III,Standard Tumor Board,In-Person Referral Overload,9,10051
+PAT-20459,2025,Internal Clinic (UK Essen Krebscenter),Essen,45122,Pancreatic Cancer,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,8252
+PAT-20460,2026,External Referral (Rhine-Ruhr Partner),Bochum,44787,Urology,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,9572
+PAT-20461,2022,Cooperation Partner (Münster),Münster,48149,Pathology Liaison,Stage I,Standard Tumor Board,In-Person Referral Overload,8,3831
+PAT-20462,2026,Research Collaboration (Cologne),Köln,50667,Urology,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,8730
+PAT-20463,2024,Regional/Local Hospital (Essen Area),Essen,45122,Surgical Oncology,Stage II,Standard Tumor Board,Severe Staff Shortage,5,2542
+PAT-20464,2022,Regional/Local Hospital (Essen Area),Essen,45122,Radiology Liaison,Stage II,Standard Tumor Board,Severe Staff Shortage,11,4423
+PAT-20465,2024,Internal Clinic (UK Essen Krebscenter),Essen,45122,Hematology,Stage I,Standard Tumor Board,Missing Medical Documents,8,5907
+PAT-20466,2022,External Referral (Rhine-Ruhr Partner),Oberhausen,46045,Surgical Oncology,Stage III,Standard Tumor Board,Severe Staff Shortage,8,9263
+PAT-20467,2025,External Referral (Rhine-Ruhr Partner),Dortmund,44135,Bowel/Colorectal,Stage III,Molecular Tumor Board,None (Smooth Routing),3,10568
+PAT-20468,2024,External Referral (Rhine-Ruhr Partner),Oberhausen,46045,Psycho-Oncology,Stage II,Standard Tumor Board,In-Person Referral Overload,5,3733
+PAT-20469,2024,Internal Clinic (UK Essen Krebscenter),Essen,45122,Pancreatic Cancer,Stage I,Standard Tumor Board,Missing Medical Documents,9,4447
+PAT-20470,2025,Regional/Local Hospital (Essen Area),Essen,45122,Hematology,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,6518
+PAT-20471,2026,External Referral (Rhine-Ruhr Partner),Duisburg,47051,Psycho-Oncology,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,12441
+PAT-20472,2026,Regional/Local Hospital (Essen Area),Gelsenkirchen,45879,Hematology,Stage III,Molecular Tumor Board,None (Smooth Routing),2,7915
+PAT-20473,2026,Internal Clinic (UK Essen Krebscenter),Duisburg,47051,Dermatology,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,10045
+PAT-20474,2023,External Referral (Rhine-Ruhr Partner),Oberhausen,46045,Ocular Oncology (Eyes),Stage I,Standard Tumor Board,Missing Medical Documents,5,3277
+PAT-20475,2023,Regional/Local Hospital (Essen Area),Essen,45122,Radiology Liaison,Stage II,Standard Tumor Board,Severe Staff Shortage,8,5866
+PAT-20476,2022,Internal Clinic (UK Essen Krebscenter),Essen,45122,Neuro-Oncology,Stage I,Standard Tumor Board,Severe Staff Shortage,10,5679
+PAT-20477,2023,External Referral (Rhine-Ruhr Partner),Bochum,44787,Gynecology,Stage II,Standard Tumor Board,In-Person Referral Overload,10,2572
+PAT-20478,2025,Cooperation Partner (Münster),Münster,48149,Neuro-Oncology,Stage III,Molecular Tumor Board,None (Smooth Routing),3,11678
+PAT-20479,2025,Research Collaboration (Cologne),Köln,50667,Gynecology,Stage III,Molecular Tumor Board,None (Smooth Routing),3,6783
+PAT-20480,2024,Cooperation Partner (Münster),Münster,48149,Psycho-Oncology,Stage I,Standard Tumor Board,In-Person Referral Overload,9,2582
+PAT-20481,2025,Internal Clinic (UK Essen Krebscenter),Essen,45122,Surgical Oncology,Stage IV,Molecular Tumor Board,None (Smooth Routing),2,8318
+PAT-20482,2022,Internal Clinic (UK Essen Krebscenter),Essen,45122,Pancreatic Cancer,Stage I,Standard Tumor Board,In-Person Referral Overload,4,5842
+PAT-20483,2026,Internal Clinic (UK Essen Krebscenter),Essen,45122,Bowel/Colorectal,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,10517
+PAT-20484,2022,Cooperation Partner (Münster),Münster,48149,Ocular Oncology (Eyes),Stage III,Standard Tumor Board,Severe Staff Shortage,7,11666
+PAT-20485,2023,Regional/Local Hospital (Essen Area),Essen,45122,Ocular Oncology (Eyes),Stage II,Standard Tumor Board,Missing Medical Documents,5,4026
+PAT-20486,2026,External Referral (Rhine-Ruhr Partner),Oberhausen,46045,Urology,Stage IV,Molecular Tumor Board,None (Smooth Routing),3,13232
+PAT-20487,2023,External Referral (Rhine-Ruhr Partner),Bochum,44787,Pancreatic Cancer,Stage II,Standard Tumor Board,In-Person Referral Overload,4,2989
+PAT-20488,2026,Internal Clinic (UK Essen Krebscenter),Duisburg,47051,Neuro-Oncology,Stage IV,Molecular Tumor Board,None (Smooth Routing),4,9412
+PAT-20489,2024,External Referral (Rhine-Ruhr Partner),Duisburg,47051,Sarcomas,Stage III,Standard Tumor Board,Missing Medical Documents,9,7241
+PAT-20490,2024,Research Collaboration (Cologne),Köln,50667,Gynecology,Stage II,Standard Tumor Board,Missing Medical Documents,7,3858
+PAT-20491,2024,Research Collaboration (Cologne),Köln,50667,Pathology Liaison,Stage I,Standard Tumor Board,Missing Medical Documents,9,3374
+PAT-20492,2022,External Referral (Rhine-Ruhr Partner),Bochum,44787,Bowel/Colorectal,Stage I,Standard Tumor Board,Missing Medical Documents,9,5481
+PAT-20493,2022,Regional/Local Hospital (Essen Area),Gelsenkirchen,45879,Sarcomas,Stage I,Standard Tumor Board,Severe Staff Shortage,8,2741
+PAT-20494,2025,External Referral (Rhine-Ruhr Partner),Duisburg,47051,Urology,Stage IV,Standard Tumor Board,Beds Occupied by Less Severe Cases,21,10664
+PAT-20495,2023,Cooperation Partner (Münster),Münster,48149,Sarcomas,Stage I,Standard Tumor Board,In-Person Referral Overload,5,4700
+PAT-20496,2024,Research Collaboration (Cologne),Köln,50667,Surgical Oncology,Stage III,Standard Tumor Board,Missing Medical Documents,8,8071
+PAT-20497,2026,Research Collaboration (Cologne),Köln,50667,Ocular Oncology (Eyes),Stage III,Molecular Tumor Board,None (Smooth Routing),1,6636
+PAT-20498,2026,Research Collaboration (Cologne),Köln,50667,Psycho-Oncology,Stage II,Standard Tumor Board,Severe Staff Shortage,8,5997
+PAT-20499,2025,Internal Clinic (UK Essen Krebscenter),Essen,45122,Pathology Liaison,Stage I,Standard Tumor Board,Severe Staff Shortage,8,4200
