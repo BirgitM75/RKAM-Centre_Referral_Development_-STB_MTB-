@@ -1,0 +1,105 @@
+•	import pandas as pd
+•	import numpy as np
+•	
+•	print("--- STAGE 1: GENERATING MESSY HOSPITAL RAW DATA ---")
+•	np.random.seed(42)
+•	n_patients = 500  
+•	years = [2022, 2023, 2024, 2025, 2026]
+•	
+•	referrer_types = [
+•	    'Internal Clinic (UK Essen Krebscenter)', 'Regional/Local Hospital (Essen Area)', 
+•	    'External Referral (Rhine-Ruhr Partner)', 'Cooperation Partner (Münster)', 'Research Collaboration (Cologne)'
+•	]
+•	cities = ['Essen', 'Köln', 'Münster', 'Dortmund', 'Duisburg', 'Bochum', 'Gelsenkirchen', 'Oberhausen']
+•	cancer_entities = ['Ocular Oncology (Eyes)', 'Gynecology', 'Pediatric Oncology', 'Lung Cancer', 'Dermatology']
+•	
+•	simulated_data = []
+•	for i in range(n_patients):
+•	    patient_id = f"PAT-{20000+i}"
+•	    year = int(np.random.choice(years, p=[0.12, 0.18, 0.25, 0.23, 0.22]))
+•	    
+•	    # FEHLER 1: Schreibfehler bei Krebsarten einbauen (Typos)
+•	    c_type = np.random.choice(cancer_entities)
+•	    if c_type == 'Gynecology' and np.random.rand() < 0.3:
+•	        c_type = 'Gynäcology (Typo)'
+•	    elif c_type == 'Lung Cancer' and np.random.rand() < 0.3:
+•	        c_type = 'LungCancers'
+•	        
+•	    # Development of tumor boardsMTB ab 2025)
+•	    if year >= 2025:
+•	        tumor_stage = np.random.choice(['Stage I', 'Stage II', 'Stage III', 'Stage IV'], p=[0.10, 0.15, 0.30, 0.45])
+•	    else:
+•	        tumor_stage = np.random.choice(['Stage I', 'Stage II', 'Stage III', 'Stage IV'], p=[0.45, 0.30, 0.15, 0.10])
+•	    
+•	    # FEHLER 2: Fehlende Daten (Missing Data / NaNs) beim Tumorstadium einbauen
+•	    if np.random.rand() < 0.08:  # 8% der Daten fehlen
+•	        tumor_stage = None
+•	        
+•	    ref_type = np.random.choice(referrer_types)
+•	    city = 'Essen' if 'Essen' in ref_type or 'Internal' in ref_type else np.random.choice(cities)
+•	    
+•	    # FEHLER 3: Unsaubere Strings bei Städten (Leerzeichen und falsche Casing)
+•	    if city == 'Essen' and np.random.rand() < 0.2:
+•	        city = ' essen '
+•	    elif city == 'Köln' and np.random.rand() < 0.2:
+•	        city = 'COLOGNE'
+•	
+•	    zip_map = {'Essen': '45122', ' essen ': '45122', 'Köln': '50667', 'COLOGNE': '50667', 'Münster': '48149', 'Dortmund': '44135', 'Duisburg': '47051', 'Bochum': '44787', 'Gelsenkirchen': '45879', 'Oberhausen': '46045'}
+•	    postal_code = zip_map[city]
+•	    revenue = int(np.random.randint(2500, 6000) if tumor_stage in ['Stage I', 'Stage II', None] else np.random.randint(6500, 14000))
+•	    board_type = 'Molecular Tumor Board' if year >= 2025 and tumor_stage in ['Stage III', 'Stage IV'] else 'Standard Tumor Board'
+•	    current_bottleneck = 'None (Smooth Routing)' if board_type == 'Molecular Tumor Board' else 'Severe Staff Shortage'
+•	    waiting_time = int(np.random.normal(3.2, 0.8)) if board_type == 'Molecular Tumor Board' else int(np.random.normal(16.0, 2.0))
+•	
+•	    simulated_data.append({
+•	        'patient_id': patient_id, 'year': year, 'referrer_type': ref_type, 'city': city,
+•	        'postal_code': postal_code, 'cancer_type': c_type, 'tumor_stage': tumor_stage,
+•	        'board_type': board_type, 'bottleneck_reason': current_bottleneck, 'waiting_time_days': max(1, waiting_time), 'revenue_euros': revenue
+•	    })
+•	
+•	df_dirty = pd.DataFrame(simulated_data)
+•	print(f"[STAGE 1 SUCCESS] Uncl
+•	Code-Block 2: STAGE 2 – Automated Data Cleaning 
+•	
+•	print("\n--- STAGE 2: EXECUTION OF AUTOMATED DATA CLEANING (THE ESSENTIAL SKILLS) ---")
+•	
+•	# Mistakes (Mapping)
+•	df_dirty['cancer_type'] = df_dirty['cancer_type'].replace({'Gynäcology (Typo)': 'Gynecology', 'LungCancers': 'Lung Cancer'})
+•	
+•	# REPARE 2: Cities (Leerzeichen & Großbuchstaben korrigieren)
+•	df_dirty['city'] = df_dirty['city'].str.strip()  # Entfernt Leerzeichen (" essen " -> "essen")
+•	df_dirty['city'] = df_dirty['city'].replace({'COLOGNE': 'Köln'})
+•	df_dirty['city'] = df_dirty['city'].str.capitalize() # korrekte Groß-/Kleinschreibung (essen -> Essen)
+•	
+•	# REPARE 3: Fehlende Daten behandeln (Data Imputation)
+•	# Missing Stages as "Unknown / Pending Investigation"
+•	df_dirty['tumor_stage'] = df_dirty['tumor_stage'].fillna('Unknown / Pending')
+•	
+•	df_clean = df_dirty
+•	print("[STAGE 2 SUCCESS] Data Cleaning completed. No typos or unhandled missing values remaining!")
+
+•	Code-Block 3: STAGE 3 – Saving SQL Data Warehouse (SQLite) & CSV-Export
+•	
+•	Python
+•	import sqlite3
+•	from google.colab import files
+•	
+•	print("\n--- STAGE 3: LOADING INTO SQL DATA WAREHOUSE & TABLEAU EXPORT ---")
+•	
+•	# 1. Create SQL-Database 
+•	db_filename = 'rkam_klinik_warehouse.db'
+•	conn = sqlite3.connect(db_filename)
+•	df_clean.to_sql('patient_flow_factors', conn, if_exists='replace', index=False)
+•	conn.close()
+•	
+•	# 2. CSV-Export for Tableau 
+•	csv_filename = "RKAM_final_trends.csv"
+•	df_clean.to_csv(csv_filename, index=False)
+•	
+•	print(f"[STAGE 3 SUCCESS] Clean Warehouse Database and CSV generated!")
+•	print("Starting automatic browser downloads...")
+•	
+•	# Download files
+•	files.download(csv_filename)
+•	files.download(db_filename)
+
