@@ -1,0 +1,501 @@
+﻿patient_id,referral_year,referral_month,city,postal_code,cancer_type,revenue_euros,bottleneck_reason
+PAT-20001,2025,November,Duisburg,45122,Pancreatic Carcinoma,8765,In-Person Referral Overload
+PAT-20002,2024,August,Herten,45699,Pancreatic Carcinoma,13611,In-Person Referral Overload
+PAT-20003,2026,February,Dortmund,45122,Colorectal Carcinoma,4933,None (Smooth Routing)
+PAT-20004,2025,October,Wetter (Ruhr),58300,Pancreatic Carcinoma,13596,Severe Staff Shortage
+PAT-20005,2024,October,Münster,45122,Colorectal Carcinoma,12498,In-Person Referral Overload
+PAT-20006,2025,September,Dorsten,46282,Breast Carcinoma,6390,Lack of Available Beds
+PAT-20007,2023,April,Köln,45122,Bronchial Carcinoma,10933,Missing Medical Documents
+PAT-20008,2023,May,Gladbeck,45964,Prostate Carcinoma,9599,None (Smooth Routing)
+PAT-20009,2024,January,Gelsenkirchen,45122,Colorectal Carcinoma,6443,None (Smooth Routing)
+PAT-20010,2023,April,Witten,58452,Pancreatic Carcinoma,9373,None (Smooth Routing)
+PAT-20011,2023,April,Bochum,45122,Colorectal Carcinoma,10392,Lack of Available Beds
+PAT-20012,2026,August,Ennepetal,58256,Prostate Carcinoma,9708,Lack of Available Beds
+PAT-20013,2026,January,Duisburg,45122,Bronchial Carcinoma,5068,Severe Staff Shortage
+PAT-20014,2024,March,Dorsten,46282,Bronchial Carcinoma,8392,Missing Medical Documents
+PAT-20015,2023,September,Duisburg,45122,Colorectal Carcinoma,10892,None (Smooth Routing)
+PAT-20016,2022,July,Witten,58452,Pancreatic Carcinoma,5231,In-Person Referral Overload
+PAT-20017,2022,March,Münster,45122,Pancreatic Carcinoma,13382,Severe Staff Shortage
+PAT-20018,2023,July,Hattingen,45525,Breast Carcinoma,2706,Missing Medical Documents
+PAT-20019,2025,March,Bochum,45122,Bronchial Carcinoma,4257,Lack of Available Beds
+PAT-20020,2026,November,Castrop-Rauxel,44575,Pancreatic Carcinoma,9168,In-Person Referral Overload
+PAT-20021,2025,February,Münster,45122,Prostate Carcinoma,12289,Severe Staff Shortage
+PAT-20022,2025,December,Recklinghausen,45657,Colorectal Carcinoma,12055,In-Person Referral Overload
+PAT-20023,2023,July,Oberhausen,45122,Colorectal Carcinoma,12929,Severe Staff Shortage
+PAT-20024,2022,November,Wetter (Ruhr),58300,Bronchial Carcinoma,8364,In-Person Referral Overload
+PAT-20025,2024,September,Duisburg,45122,Pancreatic Carcinoma,3163,In-Person Referral Overload
+PAT-20026,2025,January,Gladbeck,45964,Bronchial Carcinoma,6081,Missing Medical Documents
+PAT-20027,2022,May,Münster,45122,Bronchial Carcinoma,3198,Severe Staff Shortage
+PAT-20028,2023,December,Witten,58452,Pancreatic Carcinoma,9028,In-Person Referral Overload
+PAT-20029,2023,May,Dortmund,45122,Colorectal Carcinoma,8035,None (Smooth Routing)
+PAT-20030,2024,January,Herten,45699,Pancreatic Carcinoma,2697,In-Person Referral Overload
+PAT-20031,2022,September,Duisburg,45122,Colorectal Carcinoma,5011,Lack of Available Beds
+PAT-20032,2025,December,Herne,44623,Breast Carcinoma,9046,Missing Medical Documents
+PAT-20033,2024,April,Münster,45122,Colorectal Carcinoma,5476,Missing Medical Documents
+PAT-20034,2022,November,Schwerte,58239,Colorectal Carcinoma,8034,Missing Medical Documents
+PAT-20035,2025,October,Münster,45122,Bronchial Carcinoma,4549,Severe Staff Shortage
+PAT-20036,2025,May,Herdecke,58313,Pancreatic Carcinoma,9900,In-Person Referral Overload
+PAT-20037,2024,April,Münster,45122,Bronchial Carcinoma,4148,None (Smooth Routing)
+PAT-20038,2025,March,Recklinghausen,45657,Bronchial Carcinoma,4700,Lack of Available Beds
+PAT-20039,2023,February,Bochum,45122,Breast Carcinoma,3456,Severe Staff Shortage
+PAT-20040,2022,April,Hagen,58095,Bronchial Carcinoma,11992,None (Smooth Routing)
+PAT-20041,2024,January,Oberhausen,45122,Bronchial Carcinoma,7055,In-Person Referral Overload
+PAT-20042,2026,March,Schwelm,58332,Breast Carcinoma,7393,Severe Staff Shortage
+PAT-20043,2022,May,Essen,45122,Colorectal Carcinoma,10183,In-Person Referral Overload
+PAT-20044,2022,December,Gevelsberg,58285,Colorectal Carcinoma,5944,In-Person Referral Overload
+PAT-20045,2022,May,Essen,45122,Pancreatic Carcinoma,2801,Lack of Available Beds
+PAT-20046,2025,January,Herne,44623,Colorectal Carcinoma,5827,In-Person Referral Overload
+PAT-20047,2023,September,Oberhausen,45122,Prostate Carcinoma,4395,Missing Medical Documents
+PAT-20048,2023,November,Oer-Erkenschwick,45739,Prostate Carcinoma,3284,Severe Staff Shortage
+PAT-20049,2024,June,Köln,45122,Pancreatic Carcinoma,5306,Missing Medical Documents
+PAT-20050,2023,September,Herne,44623,Pancreatic Carcinoma,10492,None (Smooth Routing)
+PAT-20051,2025,January,Gelsenkirchen,45122,Colorectal Carcinoma,8419,In-Person Referral Overload
+PAT-20052,2025,October,Gevelsberg,58285,Breast Carcinoma,5624,None (Smooth Routing)
+PAT-20053,2025,May,Essen,45122,Colorectal Carcinoma,3376,None (Smooth Routing)
+PAT-20054,2024,July,Oer-Erkenschwick,45739,Colorectal Carcinoma,6965,None (Smooth Routing)
+PAT-20055,2024,January,Bochum,45122,Breast Carcinoma,10808,Severe Staff Shortage
+PAT-20056,2026,January,Dorsten,46282,Prostate Carcinoma,13541,Severe Staff Shortage
+PAT-20057,2026,May,Oberhausen,45122,Bronchial Carcinoma,6570,Lack of Available Beds
+PAT-20058,2025,October,Herne,44623,Breast Carcinoma,9753,Severe Staff Shortage
+PAT-20059,2025,May,Gelsenkirchen,45122,Bronchial Carcinoma,13751,Lack of Available Beds
+PAT-20060,2023,October,Dorsten,46282,Pancreatic Carcinoma,12327,Severe Staff Shortage
+PAT-20061,2026,July,Dortmund,45122,Prostate Carcinoma,5349,None (Smooth Routing)
+PAT-20062,2023,March,Marl,45768,Prostate Carcinoma,11707,Lack of Available Beds
+PAT-20063,2025,August,Gelsenkirchen,45122,Prostate Carcinoma,11587,In-Person Referral Overload
+PAT-20064,2025,February,Sprockhövel,45549,Breast Carcinoma,6500,Lack of Available Beds
+PAT-20065,2024,May,Münster,45122,Colorectal Carcinoma,8036,Missing Medical Documents
+PAT-20066,2025,December,Herten,45699,Prostate Carcinoma,4582,Severe Staff Shortage
+PAT-20067,2026,October,Bochum,45122,Prostate Carcinoma,10806,Severe Staff Shortage
+PAT-20068,2025,October,Castrop-Rauxel,44575,Pancreatic Carcinoma,12208,In-Person Referral Overload
+PAT-20069,2025,September,Gelsenkirchen,45122,Pancreatic Carcinoma,8488,Severe Staff Shortage
+PAT-20070,2022,March,Herne,44623,Colorectal Carcinoma,7604,Lack of Available Beds
+PAT-20071,2022,July,Essen,45122,Pancreatic Carcinoma,7468,Severe Staff Shortage
+PAT-20072,2025,September,Gevelsberg,58285,Pancreatic Carcinoma,2895,Lack of Available Beds
+PAT-20073,2024,December,Köln,45122,Bronchial Carcinoma,12511,None (Smooth Routing)
+PAT-20074,2023,May,Schwelm,58332,Pancreatic Carcinoma,6991,Severe Staff Shortage
+PAT-20075,2024,May,Essen,45122,Colorectal Carcinoma,13308,Lack of Available Beds
+PAT-20076,2023,July,Marl,45768,Prostate Carcinoma,9830,Lack of Available Beds
+PAT-20077,2024,February,Münster,45122,Colorectal Carcinoma,9741,Missing Medical Documents
+PAT-20078,2022,June,Dorsten,46282,Pancreatic Carcinoma,8813,Severe Staff Shortage
+PAT-20079,2024,October,Bochum,45122,Prostate Carcinoma,8672,Lack of Available Beds
+PAT-20080,2024,August,Recklinghausen,45657,Pancreatic Carcinoma,3865,None (Smooth Routing)
+PAT-20081,2022,April,Köln,45122,Colorectal Carcinoma,9919,In-Person Referral Overload
+PAT-20082,2024,October,Dorsten,46282,Prostate Carcinoma,6768,Lack of Available Beds
+PAT-20083,2025,October,Bochum,45122,Colorectal Carcinoma,11586,Severe Staff Shortage
+PAT-20084,2022,March,Castrop-Rauxel,44575,Pancreatic Carcinoma,10076,Severe Staff Shortage
+PAT-20085,2026,June,Dortmund,45122,Prostate Carcinoma,8816,Lack of Available Beds
+PAT-20086,2026,June,Oer-Erkenschwick,45739,Pancreatic Carcinoma,13503,Lack of Available Beds
+PAT-20087,2024,March,Essen,45122,Colorectal Carcinoma,8690,Severe Staff Shortage
+PAT-20088,2022,May,Gevelsberg,58285,Breast Carcinoma,11162,Severe Staff Shortage
+PAT-20089,2025,October,Münster,45122,Colorectal Carcinoma,11837,None (Smooth Routing)
+PAT-20090,2023,August,Hagen,58095,Prostate Carcinoma,3039,None (Smooth Routing)
+PAT-20091,2022,April,Gelsenkirchen,45122,Breast Carcinoma,7820,Severe Staff Shortage
+PAT-20092,2026,December,Sprockhövel,45549,Pancreatic Carcinoma,4081,In-Person Referral Overload
+PAT-20093,2023,March,Gelsenkirchen,45122,Pancreatic Carcinoma,12636,Missing Medical Documents
+PAT-20094,2023,November,Marl,45768,Pancreatic Carcinoma,3515,Severe Staff Shortage
+PAT-20095,2022,February,Dortmund,45122,Bronchial Carcinoma,9949,Severe Staff Shortage
+PAT-20096,2026,January,Gevelsberg,58285,Prostate Carcinoma,9766,Severe Staff Shortage
+PAT-20097,2025,January,Gelsenkirchen,45122,Pancreatic Carcinoma,8489,In-Person Referral Overload
+PAT-20098,2026,May,Hattingen,45525,Prostate Carcinoma,6678,Severe Staff Shortage
+PAT-20099,2022,January,Gelsenkirchen,45122,Breast Carcinoma,3216,None (Smooth Routing)
+PAT-20100,2022,August,Wetter (Ruhr),58300,Prostate Carcinoma,12266,Missing Medical Documents
+PAT-20101,2023,June,Bochum,45122,Breast Carcinoma,6863,Severe Staff Shortage
+PAT-20102,2026,November,Dorsten,46282,Bronchial Carcinoma,7219,Lack of Available Beds
+PAT-20103,2023,November,Gelsenkirchen,45122,Breast Carcinoma,9381,Missing Medical Documents
+PAT-20104,2023,November,Witten,58452,Breast Carcinoma,3831,Severe Staff Shortage
+PAT-20105,2022,August,Dortmund,45122,Colorectal Carcinoma,10230,Severe Staff Shortage
+PAT-20106,2026,April,Hattingen,45525,Prostate Carcinoma,7949,Severe Staff Shortage
+PAT-20107,2025,August,Essen,45122,Pancreatic Carcinoma,10441,Lack of Available Beds
+PAT-20108,2026,November,Witten,58452,Breast Carcinoma,4406,Severe Staff Shortage
+PAT-20109,2024,June,Duisburg,45122,Colorectal Carcinoma,13639,Severe Staff Shortage
+PAT-20110,2024,November,Herne,44623,Pancreatic Carcinoma,9277,In-Person Referral Overload
+PAT-20111,2026,May,Münster,45122,Prostate Carcinoma,6400,Lack of Available Beds
+PAT-20112,2022,May,Recklinghausen,45657,Bronchial Carcinoma,4893,Missing Medical Documents
+PAT-20113,2023,November,Köln,45122,Bronchial Carcinoma,7740,In-Person Referral Overload
+PAT-20114,2026,January,Herdecke,58313,Prostate Carcinoma,12747,Severe Staff Shortage
+PAT-20115,2026,April,Münster,45122,Prostate Carcinoma,2864,Missing Medical Documents
+PAT-20116,2024,August,Waltrop,45731,Breast Carcinoma,7622,In-Person Referral Overload
+PAT-20117,2025,February,Duisburg,45122,Prostate Carcinoma,9382,In-Person Referral Overload
+PAT-20118,2022,July,Oer-Erkenschwick,45739,Pancreatic Carcinoma,3562,Severe Staff Shortage
+PAT-20119,2023,December,Köln,45122,Bronchial Carcinoma,6096,None (Smooth Routing)
+PAT-20120,2023,March,Hagen,58095,Bronchial Carcinoma,11861,None (Smooth Routing)
+PAT-20121,2023,August,Duisburg,45122,Bronchial Carcinoma,9238,Missing Medical Documents
+PAT-20122,2026,June,Gladbeck,45964,Colorectal Carcinoma,12667,In-Person Referral Overload
+PAT-20123,2026,September,Gelsenkirchen,45122,Bronchial Carcinoma,4105,None (Smooth Routing)
+PAT-20124,2022,July,Herten,45699,Breast Carcinoma,6824,None (Smooth Routing)
+PAT-20125,2023,April,Oberhausen,45122,Colorectal Carcinoma,10695,Severe Staff Shortage
+PAT-20126,2024,September,Recklinghausen,45657,Prostate Carcinoma,13454,Missing Medical Documents
+PAT-20127,2026,December,Münster,45122,Pancreatic Carcinoma,11833,None (Smooth Routing)
+PAT-20128,2025,January,Schwelm,58332,Colorectal Carcinoma,8783,Severe Staff Shortage
+PAT-20129,2026,November,Bochum,45122,Colorectal Carcinoma,4526,In-Person Referral Overload
+PAT-20130,2023,August,Wetter (Ruhr),58300,Prostate Carcinoma,8538,Missing Medical Documents
+PAT-20131,2023,August,Essen,45122,Prostate Carcinoma,3842,Lack of Available Beds
+PAT-20132,2022,September,Gladbeck,45964,Breast Carcinoma,12730,In-Person Referral Overload
+PAT-20133,2022,May,Dortmund,45122,Colorectal Carcinoma,12661,Lack of Available Beds
+PAT-20134,2022,February,Herten,45699,Colorectal Carcinoma,12262,Severe Staff Shortage
+PAT-20135,2025,August,Oberhausen,45122,Breast Carcinoma,11944,None (Smooth Routing)
+PAT-20136,2026,May,Herne,44623,Pancreatic Carcinoma,10077,None (Smooth Routing)
+PAT-20137,2026,October,Köln,45122,Bronchial Carcinoma,13035,In-Person Referral Overload
+PAT-20138,2022,July,Recklinghausen,45657,Bronchial Carcinoma,3748,Missing Medical Documents
+PAT-20139,2026,August,Dortmund,45122,Breast Carcinoma,4470,In-Person Referral Overload
+PAT-20140,2024,August,Castrop-Rauxel,44575,Prostate Carcinoma,8242,Lack of Available Beds
+PAT-20141,2025,July,Köln,45122,Breast Carcinoma,4704,Severe Staff Shortage
+PAT-20142,2026,May,Wetter (Ruhr),58300,Breast Carcinoma,7873,None (Smooth Routing)
+PAT-20143,2023,October,Dortmund,45122,Pancreatic Carcinoma,13604,Lack of Available Beds
+PAT-20144,2025,August,Oer-Erkenschwick,45739,Colorectal Carcinoma,5728,Lack of Available Beds
+PAT-20145,2025,December,Gelsenkirchen,45122,Pancreatic Carcinoma,2594,In-Person Referral Overload
+PAT-20146,2025,April,Schwelm,58332,Prostate Carcinoma,4616,None (Smooth Routing)
+PAT-20147,2023,August,Münster,45122,Prostate Carcinoma,11054,None (Smooth Routing)
+PAT-20148,2023,September,Datteln,45711,Bronchial Carcinoma,12331,None (Smooth Routing)
+PAT-20149,2025,December,Münster,45122,Colorectal Carcinoma,13627,Lack of Available Beds
+PAT-20150,2023,January,Schwerte,58239,Colorectal Carcinoma,7609,In-Person Referral Overload
+PAT-20151,2022,June,Gelsenkirchen,45122,Breast Carcinoma,13553,Lack of Available Beds
+PAT-20152,2025,June,Waltrop,45731,Bronchial Carcinoma,4354,In-Person Referral Overload
+PAT-20153,2026,September,Oberhausen,45122,Pancreatic Carcinoma,10893,None (Smooth Routing)
+PAT-20154,2024,April,Gladbeck,45964,Bronchial Carcinoma,10473,Missing Medical Documents
+PAT-20155,2023,November,Duisburg,45122,Prostate Carcinoma,9283,In-Person Referral Overload
+PAT-20156,2024,March,Dorsten,46282,Bronchial Carcinoma,7799,Lack of Available Beds
+PAT-20157,2022,January,Oberhausen,45122,Pancreatic Carcinoma,7257,Missing Medical Documents
+PAT-20158,2026,January,Ennepetal,58256,Bronchial Carcinoma,3188,None (Smooth Routing)
+PAT-20159,2025,August,Dortmund,45122,Bronchial Carcinoma,12484,Lack of Available Beds
+PAT-20160,2024,August,Schwelm,58332,Breast Carcinoma,7024,Lack of Available Beds
+PAT-20161,2024,February,Dortmund,45122,Bronchial Carcinoma,7990,Missing Medical Documents
+PAT-20162,2025,January,Witten,58452,Prostate Carcinoma,11638,None (Smooth Routing)
+PAT-20163,2026,July,Köln,45122,Breast Carcinoma,3981,In-Person Referral Overload
+PAT-20164,2023,December,Waltrop,45731,Bronchial Carcinoma,5962,Lack of Available Beds
+PAT-20165,2022,September,Oberhausen,45122,Breast Carcinoma,9721,Severe Staff Shortage
+PAT-20166,2026,March,Oer-Erkenschwick,45739,Breast Carcinoma,6175,Missing Medical Documents
+PAT-20167,2024,April,Münster,45122,Colorectal Carcinoma,9112,Missing Medical Documents
+PAT-20168,2023,July,Castrop-Rauxel,44575,Bronchial Carcinoma,5952,In-Person Referral Overload
+PAT-20169,2026,December,Essen,45122,Prostate Carcinoma,12612,Lack of Available Beds
+PAT-20170,2024,October,Sprockhövel,45549,Prostate Carcinoma,7066,None (Smooth Routing)
+PAT-20171,2026,May,Essen,45122,Bronchial Carcinoma,9583,In-Person Referral Overload
+PAT-20172,2023,June,Sprockhövel,45549,Colorectal Carcinoma,13453,In-Person Referral Overload
+PAT-20173,2022,February,Dortmund,45122,Breast Carcinoma,5073,Severe Staff Shortage
+PAT-20174,2023,September,Schwerte,58239,Bronchial Carcinoma,5041,None (Smooth Routing)
+PAT-20175,2023,February,Bochum,45122,Pancreatic Carcinoma,9481,Missing Medical Documents
+PAT-20176,2025,September,Marl,45768,Prostate Carcinoma,8296,Severe Staff Shortage
+PAT-20177,2023,December,Dortmund,45122,Pancreatic Carcinoma,2841,Lack of Available Beds
+PAT-20178,2024,August,Recklinghausen,45657,Prostate Carcinoma,8636,Lack of Available Beds
+PAT-20179,2023,January,Duisburg,45122,Prostate Carcinoma,6725,None (Smooth Routing)
+PAT-20180,2022,March,Herten,45699,Pancreatic Carcinoma,7990,Missing Medical Documents
+PAT-20181,2026,November,Gelsenkirchen,45122,Breast Carcinoma,11828,In-Person Referral Overload
+PAT-20182,2024,June,Castrop-Rauxel,44575,Prostate Carcinoma,5211,Lack of Available Beds
+PAT-20183,2022,October,Oberhausen,45122,Colorectal Carcinoma,4262,None (Smooth Routing)
+PAT-20184,2022,November,Herten,45699,Pancreatic Carcinoma,2981,Severe Staff Shortage
+PAT-20185,2023,May,Bochum,45122,Bronchial Carcinoma,4843,Severe Staff Shortage
+PAT-20186,2022,November,Wetter (Ruhr),58300,Prostate Carcinoma,10470,In-Person Referral Overload
+PAT-20187,2026,December,Bochum,45122,Colorectal Carcinoma,9509,None (Smooth Routing)
+PAT-20188,2026,December,Schwelm,58332,Breast Carcinoma,5504,Severe Staff Shortage
+PAT-20189,2022,July,Bochum,45122,Bronchial Carcinoma,6607,In-Person Referral Overload
+PAT-20190,2026,January,Schwerte,58239,Pancreatic Carcinoma,11401,Severe Staff Shortage
+PAT-20191,2022,December,Bochum,45122,Breast Carcinoma,10544,Missing Medical Documents
+PAT-20192,2023,July,Oer-Erkenschwick,45739,Bronchial Carcinoma,6930,Lack of Available Beds
+PAT-20193,2022,March,Duisburg,45122,Prostate Carcinoma,5794,None (Smooth Routing)
+PAT-20194,2024,February,Castrop-Rauxel,44575,Breast Carcinoma,3114,Severe Staff Shortage
+PAT-20195,2024,December,Dortmund,45122,Colorectal Carcinoma,2630,Lack of Available Beds
+PAT-20196,2023,July,Herten,45699,Colorectal Carcinoma,10194,Severe Staff Shortage
+PAT-20197,2026,June,Essen,45122,Bronchial Carcinoma,13461,Severe Staff Shortage
+PAT-20198,2026,October,Herdecke,58313,Colorectal Carcinoma,11002,In-Person Referral Overload
+PAT-20199,2023,November,Bochum,45122,Pancreatic Carcinoma,6310,In-Person Referral Overload
+PAT-20200,2025,January,Castrop-Rauxel,44575,Pancreatic Carcinoma,2771,None (Smooth Routing)
+PAT-20201,2022,October,Duisburg,45122,Bronchial Carcinoma,6935,Lack of Available Beds
+PAT-20202,2022,March,Wetter (Ruhr),58300,Pancreatic Carcinoma,11067,Missing Medical Documents
+PAT-20203,2023,May,Essen,45122,Bronchial Carcinoma,11396,Lack of Available Beds
+PAT-20204,2022,January,Waltrop,45731,Bronchial Carcinoma,12926,Missing Medical Documents
+PAT-20205,2026,May,Gelsenkirchen,45122,Breast Carcinoma,3306,In-Person Referral Overload
+PAT-20206,2023,September,Datteln,45711,Colorectal Carcinoma,8190,None (Smooth Routing)
+PAT-20207,2026,March,Gelsenkirchen,45122,Pancreatic Carcinoma,9774,Missing Medical Documents
+PAT-20208,2022,October,Gladbeck,45964,Breast Carcinoma,4296,Severe Staff Shortage
+PAT-20209,2024,April,Köln,45122,Prostate Carcinoma,12288,In-Person Referral Overload
+PAT-20210,2024,February,Marl,45768,Prostate Carcinoma,10694,In-Person Referral Overload
+PAT-20211,2026,August,Dortmund,45122,Pancreatic Carcinoma,13068,None (Smooth Routing)
+PAT-20212,2026,February,Waltrop,45731,Breast Carcinoma,9990,In-Person Referral Overload
+PAT-20213,2026,September,Essen,45122,Breast Carcinoma,12047,Missing Medical Documents
+PAT-20214,2022,May,Gladbeck,45964,Breast Carcinoma,11675,None (Smooth Routing)
+PAT-20215,2024,May,Duisburg,45122,Prostate Carcinoma,10728,None (Smooth Routing)
+PAT-20216,2026,December,Herdecke,58313,Pancreatic Carcinoma,7733,Lack of Available Beds
+PAT-20217,2026,March,Oberhausen,45122,Prostate Carcinoma,4091,Missing Medical Documents
+PAT-20218,2024,January,Schwerte,58239,Breast Carcinoma,5739,None (Smooth Routing)
+PAT-20219,2024,November,Köln,45122,Bronchial Carcinoma,2862,Lack of Available Beds
+PAT-20220,2025,November,Marl,45768,Colorectal Carcinoma,3056,Missing Medical Documents
+PAT-20221,2024,July,Köln,45122,Prostate Carcinoma,5219,In-Person Referral Overload
+PAT-20222,2023,April,Castrop-Rauxel,44575,Prostate Carcinoma,11280,Lack of Available Beds
+PAT-20223,2023,November,Essen,45122,Bronchial Carcinoma,4564,Missing Medical Documents
+PAT-20224,2024,June,Datteln,45711,Breast Carcinoma,7852,Missing Medical Documents
+PAT-20225,2025,December,Duisburg,45122,Pancreatic Carcinoma,9559,None (Smooth Routing)
+PAT-20226,2025,November,Ennepetal,58256,Bronchial Carcinoma,11609,Severe Staff Shortage
+PAT-20227,2022,June,Bochum,45122,Prostate Carcinoma,4853,Lack of Available Beds
+PAT-20228,2025,November,Dorsten,46282,Breast Carcinoma,7626,Lack of Available Beds
+PAT-20229,2022,June,Münster,45122,Breast Carcinoma,12145,Missing Medical Documents
+PAT-20230,2022,March,Hagen,58095,Pancreatic Carcinoma,2538,Lack of Available Beds
+PAT-20231,2024,April,Gelsenkirchen,45122,Prostate Carcinoma,5655,In-Person Referral Overload
+PAT-20232,2022,December,Herne,44623,Colorectal Carcinoma,6679,In-Person Referral Overload
+PAT-20233,2026,March,Köln,45122,Breast Carcinoma,3433,Missing Medical Documents
+PAT-20234,2022,September,Herne,44623,Colorectal Carcinoma,7890,None (Smooth Routing)
+PAT-20235,2024,August,Oberhausen,45122,Colorectal Carcinoma,3484,Severe Staff Shortage
+PAT-20236,2024,February,Schwerte,58239,Colorectal Carcinoma,3459,None (Smooth Routing)
+PAT-20237,2025,October,Gelsenkirchen,45122,Breast Carcinoma,3026,Severe Staff Shortage
+PAT-20238,2022,December,Waltrop,45731,Colorectal Carcinoma,11212,Severe Staff Shortage
+PAT-20239,2026,May,Essen,45122,Prostate Carcinoma,11086,Lack of Available Beds
+PAT-20240,2026,February,Gevelsberg,58285,Prostate Carcinoma,10857,In-Person Referral Overload
+PAT-20241,2022,January,Gelsenkirchen,45122,Colorectal Carcinoma,5996,In-Person Referral Overload
+PAT-20242,2022,January,Schwelm,58332,Colorectal Carcinoma,8291,None (Smooth Routing)
+PAT-20243,2022,October,Essen,45122,Prostate Carcinoma,2501,Severe Staff Shortage
+PAT-20244,2022,January,Wetter (Ruhr),58300,Pancreatic Carcinoma,12933,Missing Medical Documents
+PAT-20245,2023,February,Dortmund,45122,Prostate Carcinoma,11578,None (Smooth Routing)
+PAT-20246,2024,March,Gevelsberg,58285,Breast Carcinoma,4556,Severe Staff Shortage
+PAT-20247,2022,February,Duisburg,45122,Colorectal Carcinoma,6411,Missing Medical Documents
+PAT-20248,2024,July,Sprockhövel,45549,Breast Carcinoma,3399,Missing Medical Documents
+PAT-20249,2023,March,Dortmund,45122,Bronchial Carcinoma,6609,In-Person Referral Overload
+PAT-20250,2025,July,Ennepetal,58256,Colorectal Carcinoma,4060,Lack of Available Beds
+PAT-20251,2023,March,Münster,45122,Colorectal Carcinoma,4427,Lack of Available Beds
+PAT-20252,2025,February,Schwelm,58332,Prostate Carcinoma,11003,Severe Staff Shortage
+PAT-20253,2024,December,Münster,45122,Prostate Carcinoma,8736,Severe Staff Shortage
+PAT-20254,2025,January,Castrop-Rauxel,44575,Pancreatic Carcinoma,13471,None (Smooth Routing)
+PAT-20255,2025,December,Dortmund,45122,Prostate Carcinoma,7203,Severe Staff Shortage
+PAT-20256,2023,May,Hagen,58095,Prostate Carcinoma,13317,Missing Medical Documents
+PAT-20257,2023,March,Essen,45122,Breast Carcinoma,6214,Lack of Available Beds
+PAT-20258,2026,January,Ennepetal,58256,Breast Carcinoma,12839,Missing Medical Documents
+PAT-20259,2023,July,Essen,45122,Pancreatic Carcinoma,13744,Severe Staff Shortage
+PAT-20260,2022,April,Oer-Erkenschwick,45739,Prostate Carcinoma,5716,In-Person Referral Overload
+PAT-20261,2022,December,Köln,45122,Prostate Carcinoma,11944,Lack of Available Beds
+PAT-20262,2025,August,Wetter (Ruhr),58300,Colorectal Carcinoma,9562,In-Person Referral Overload
+PAT-20263,2024,June,Bochum,45122,Prostate Carcinoma,13583,Severe Staff Shortage
+PAT-20264,2026,April,Wetter (Ruhr),58300,Breast Carcinoma,9156,Severe Staff Shortage
+PAT-20265,2025,December,Oberhausen,45122,Bronchial Carcinoma,8552,Lack of Available Beds
+PAT-20266,2026,January,Dorsten,46282,Bronchial Carcinoma,4703,None (Smooth Routing)
+PAT-20267,2026,April,Münster,45122,Prostate Carcinoma,3468,Lack of Available Beds
+PAT-20268,2023,January,Sprockhövel,45549,Breast Carcinoma,13224,Lack of Available Beds
+PAT-20269,2026,January,Münster,45122,Bronchial Carcinoma,11727,Missing Medical Documents
+PAT-20270,2026,February,Sprockhövel,45549,Breast Carcinoma,2625,Missing Medical Documents
+PAT-20271,2023,September,Köln,45122,Breast Carcinoma,11610,None (Smooth Routing)
+PAT-20272,2025,July,Recklinghausen,45657,Pancreatic Carcinoma,4469,Missing Medical Documents
+PAT-20273,2023,May,Essen,45122,Bronchial Carcinoma,9312,Lack of Available Beds
+PAT-20274,2023,January,Oer-Erkenschwick,45739,Prostate Carcinoma,8589,Missing Medical Documents
+PAT-20275,2022,October,Bochum,45122,Bronchial Carcinoma,3486,Severe Staff Shortage
+PAT-20276,2025,January,Waltrop,45731,Bronchial Carcinoma,5624,Lack of Available Beds
+PAT-20277,2023,December,Köln,45122,Prostate Carcinoma,3203,Severe Staff Shortage
+PAT-20278,2022,September,Wetter (Ruhr),58300,Pancreatic Carcinoma,6328,Lack of Available Beds
+PAT-20279,2022,November,Duisburg,45122,Colorectal Carcinoma,5673,None (Smooth Routing)
+PAT-20280,2024,June,Recklinghausen,45657,Prostate Carcinoma,3500,In-Person Referral Overload
+PAT-20281,2024,January,Gelsenkirchen,45122,Bronchial Carcinoma,9732,None (Smooth Routing)
+PAT-20282,2026,March,Castrop-Rauxel,44575,Colorectal Carcinoma,11427,Severe Staff Shortage
+PAT-20283,2025,June,Münster,45122,Prostate Carcinoma,9510,Missing Medical Documents
+PAT-20284,2022,March,Witten,58452,Pancreatic Carcinoma,5363,Missing Medical Documents
+PAT-20285,2025,May,Dortmund,45122,Pancreatic Carcinoma,7752,Missing Medical Documents
+PAT-20286,2026,December,Herdecke,58313,Colorectal Carcinoma,10734,Missing Medical Documents
+PAT-20287,2024,November,Essen,45122,Pancreatic Carcinoma,11706,Lack of Available Beds
+PAT-20288,2022,April,Oer-Erkenschwick,45739,Breast Carcinoma,2640,In-Person Referral Overload
+PAT-20289,2026,April,Bochum,45122,Pancreatic Carcinoma,6110,Lack of Available Beds
+PAT-20290,2025,March,Oer-Erkenschwick,45739,Prostate Carcinoma,12373,Missing Medical Documents
+PAT-20291,2026,April,Köln,45122,Prostate Carcinoma,3786,None (Smooth Routing)
+PAT-20292,2026,July,Marl,45768,Bronchial Carcinoma,11136,Missing Medical Documents
+PAT-20293,2025,April,Oberhausen,45122,Colorectal Carcinoma,12537,Severe Staff Shortage
+PAT-20294,2026,October,Dorsten,46282,Breast Carcinoma,9785,Lack of Available Beds
+PAT-20295,2025,September,Dortmund,45122,Prostate Carcinoma,2509,Missing Medical Documents
+PAT-20296,2022,October,Marl,45768,Breast Carcinoma,8199,Missing Medical Documents
+PAT-20297,2024,April,Oberhausen,45122,Colorectal Carcinoma,5773,Severe Staff Shortage
+PAT-20298,2024,April,Ennepetal,58256,Prostate Carcinoma,12154,Missing Medical Documents
+PAT-20299,2022,March,Gelsenkirchen,45122,Colorectal Carcinoma,3130,Lack of Available Beds
+PAT-20300,2026,March,Gevelsberg,58285,Colorectal Carcinoma,9827,In-Person Referral Overload
+PAT-20301,2022,September,Bochum,45122,Bronchial Carcinoma,3843,In-Person Referral Overload
+PAT-20302,2026,February,Castrop-Rauxel,44575,Breast Carcinoma,9280,Severe Staff Shortage
+PAT-20303,2024,July,Köln,45122,Colorectal Carcinoma,8199,Missing Medical Documents
+PAT-20304,2023,July,Recklinghausen,45657,Pancreatic Carcinoma,10343,In-Person Referral Overload
+PAT-20305,2022,November,Köln,45122,Bronchial Carcinoma,3207,Lack of Available Beds
+PAT-20306,2025,February,Gevelsberg,58285,Colorectal Carcinoma,4975,In-Person Referral Overload
+PAT-20307,2026,August,Oberhausen,45122,Prostate Carcinoma,13753,None (Smooth Routing)
+PAT-20308,2023,July,Herne,44623,Colorectal Carcinoma,13353,Severe Staff Shortage
+PAT-20309,2023,July,Münster,45122,Colorectal Carcinoma,3161,None (Smooth Routing)
+PAT-20310,2026,September,Hagen,58095,Prostate Carcinoma,5583,Severe Staff Shortage
+PAT-20311,2025,August,Oberhausen,45122,Colorectal Carcinoma,4179,Lack of Available Beds
+PAT-20312,2026,April,Schwelm,58332,Colorectal Carcinoma,2785,Lack of Available Beds
+PAT-20313,2023,August,Essen,45122,Bronchial Carcinoma,13199,None (Smooth Routing)
+PAT-20314,2026,April,Witten,58452,Bronchial Carcinoma,12293,Severe Staff Shortage
+PAT-20315,2023,November,Gelsenkirchen,45122,Bronchial Carcinoma,4996,In-Person Referral Overload
+PAT-20316,2025,July,Herne,44623,Prostate Carcinoma,6906,In-Person Referral Overload
+PAT-20317,2024,June,Dortmund,45122,Colorectal Carcinoma,10935,Missing Medical Documents
+PAT-20318,2022,October,Dorsten,46282,Prostate Carcinoma,4326,Missing Medical Documents
+PAT-20319,2024,July,Dortmund,45122,Colorectal Carcinoma,10764,Lack of Available Beds
+PAT-20320,2023,November,Herne,44623,Prostate Carcinoma,9873,None (Smooth Routing)
+PAT-20321,2023,September,Bochum,45122,Prostate Carcinoma,6759,Severe Staff Shortage
+PAT-20322,2026,April,Waltrop,45731,Breast Carcinoma,4460,Severe Staff Shortage
+PAT-20323,2026,February,Gelsenkirchen,45122,Pancreatic Carcinoma,3463,Severe Staff Shortage
+PAT-20324,2025,December,Oer-Erkenschwick,45739,Colorectal Carcinoma,11234,None (Smooth Routing)
+PAT-20325,2026,December,Bochum,45122,Pancreatic Carcinoma,6849,Missing Medical Documents
+PAT-20326,2024,May,Schwelm,58332,Breast Carcinoma,8988,Missing Medical Documents
+PAT-20327,2024,February,Dortmund,45122,Pancreatic Carcinoma,11148,In-Person Referral Overload
+PAT-20328,2024,May,Gladbeck,45964,Bronchial Carcinoma,11574,None (Smooth Routing)
+PAT-20329,2025,April,Köln,45122,Bronchial Carcinoma,3882,None (Smooth Routing)
+PAT-20330,2026,April,Sprockhövel,45549,Colorectal Carcinoma,5802,Missing Medical Documents
+PAT-20331,2026,April,Duisburg,45122,Pancreatic Carcinoma,12831,Lack of Available Beds
+PAT-20332,2023,November,Hattingen,45525,Pancreatic Carcinoma,10258,Lack of Available Beds
+PAT-20333,2023,August,Bochum,45122,Pancreatic Carcinoma,13776,Lack of Available Beds
+PAT-20334,2026,May,Ennepetal,58256,Pancreatic Carcinoma,6768,None (Smooth Routing)
+PAT-20335,2024,January,Köln,45122,Colorectal Carcinoma,7298,Lack of Available Beds
+PAT-20336,2026,October,Sprockhövel,45549,Colorectal Carcinoma,7219,None (Smooth Routing)
+PAT-20337,2024,September,Bochum,45122,Pancreatic Carcinoma,13293,Lack of Available Beds
+PAT-20338,2026,January,Marl,45768,Bronchial Carcinoma,5691,Severe Staff Shortage
+PAT-20339,2022,February,Köln,45122,Colorectal Carcinoma,8672,Severe Staff Shortage
+PAT-20340,2023,October,Marl,45768,Colorectal Carcinoma,11480,None (Smooth Routing)
+PAT-20341,2023,August,Münster,45122,Breast Carcinoma,9588,Severe Staff Shortage
+PAT-20342,2024,May,Datteln,45711,Colorectal Carcinoma,8730,Lack of Available Beds
+PAT-20343,2026,August,Oberhausen,45122,Bronchial Carcinoma,5956,Lack of Available Beds
+PAT-20344,2024,August,Schwelm,58332,Bronchial Carcinoma,2647,Lack of Available Beds
+PAT-20345,2023,April,Oberhausen,45122,Breast Carcinoma,7830,In-Person Referral Overload
+PAT-20346,2024,October,Schwelm,58332,Pancreatic Carcinoma,8993,Missing Medical Documents
+PAT-20347,2025,January,Dortmund,45122,Bronchial Carcinoma,5509,Missing Medical Documents
+PAT-20348,2022,April,Herne,44623,Colorectal Carcinoma,12332,Severe Staff Shortage
+PAT-20349,2023,July,Köln,45122,Prostate Carcinoma,4696,None (Smooth Routing)
+PAT-20350,2024,August,Dorsten,46282,Prostate Carcinoma,12408,None (Smooth Routing)
+PAT-20351,2024,October,Bochum,45122,Bronchial Carcinoma,10069,Severe Staff Shortage
+PAT-20352,2024,December,Schwerte,58239,Prostate Carcinoma,13529,None (Smooth Routing)
+PAT-20353,2025,May,Dortmund,45122,Colorectal Carcinoma,4660,Lack of Available Beds
+PAT-20354,2023,July,Herne,44623,Bronchial Carcinoma,3756,Missing Medical Documents
+PAT-20355,2026,May,Gelsenkirchen,45122,Colorectal Carcinoma,11289,In-Person Referral Overload
+PAT-20356,2023,February,Datteln,45711,Pancreatic Carcinoma,9079,In-Person Referral Overload
+PAT-20357,2024,July,Bochum,45122,Colorectal Carcinoma,13017,In-Person Referral Overload
+PAT-20358,2026,January,Hattingen,45525,Breast Carcinoma,8751,Severe Staff Shortage
+PAT-20359,2026,August,Oberhausen,45122,Prostate Carcinoma,8772,None (Smooth Routing)
+PAT-20360,2024,January,Hattingen,45525,Colorectal Carcinoma,7843,Missing Medical Documents
+PAT-20361,2024,September,Bochum,45122,Prostate Carcinoma,11614,Missing Medical Documents
+PAT-20362,2026,September,Gladbeck,45964,Colorectal Carcinoma,12973,Missing Medical Documents
+PAT-20363,2025,January,Bochum,45122,Bronchial Carcinoma,10104,Severe Staff Shortage
+PAT-20364,2024,March,Sprockhövel,45549,Breast Carcinoma,3197,None (Smooth Routing)
+PAT-20365,2026,April,Duisburg,45122,Colorectal Carcinoma,3513,In-Person Referral Overload
+PAT-20366,2026,June,Hattingen,45525,Pancreatic Carcinoma,12777,None (Smooth Routing)
+PAT-20367,2022,April,Essen,45122,Bronchial Carcinoma,5063,Lack of Available Beds
+PAT-20368,2024,August,Waltrop,45731,Pancreatic Carcinoma,9341,None (Smooth Routing)
+PAT-20369,2023,February,Essen,45122,Breast Carcinoma,5890,In-Person Referral Overload
+PAT-20370,2025,October,Datteln,45711,Pancreatic Carcinoma,12758,Lack of Available Beds
+PAT-20371,2022,July,Essen,45122,Bronchial Carcinoma,3330,None (Smooth Routing)
+PAT-20372,2024,December,Gevelsberg,58285,Breast Carcinoma,3519,Lack of Available Beds
+PAT-20373,2022,June,Köln,45122,Colorectal Carcinoma,4510,None (Smooth Routing)
+PAT-20374,2022,October,Herten,45699,Pancreatic Carcinoma,4597,In-Person Referral Overload
+PAT-20375,2024,January,Gelsenkirchen,45122,Pancreatic Carcinoma,6420,In-Person Referral Overload
+PAT-20376,2024,May,Datteln,45711,Breast Carcinoma,11238,Missing Medical Documents
+PAT-20377,2026,May,Münster,45122,Colorectal Carcinoma,11395,Lack of Available Beds
+PAT-20378,2023,April,Hagen,58095,Prostate Carcinoma,5339,Severe Staff Shortage
+PAT-20379,2022,June,Essen,45122,Colorectal Carcinoma,6783,Severe Staff Shortage
+PAT-20380,2022,April,Sprockhövel,45549,Pancreatic Carcinoma,7213,None (Smooth Routing)
+PAT-20381,2024,July,Duisburg,45122,Colorectal Carcinoma,3131,Missing Medical Documents
+PAT-20382,2023,September,Herdecke,58313,Pancreatic Carcinoma,8175,Severe Staff Shortage
+PAT-20383,2025,August,Gelsenkirchen,45122,Breast Carcinoma,4797,In-Person Referral Overload
+PAT-20384,2023,January,Hagen,58095,Breast Carcinoma,12114,Missing Medical Documents
+PAT-20385,2024,April,Oberhausen,45122,Pancreatic Carcinoma,5039,Severe Staff Shortage
+PAT-20386,2023,May,Hattingen,45525,Prostate Carcinoma,6170,Missing Medical Documents
+PAT-20387,2022,March,Gelsenkirchen,45122,Breast Carcinoma,9088,Severe Staff Shortage
+PAT-20388,2023,May,Wetter (Ruhr),58300,Colorectal Carcinoma,3097,Severe Staff Shortage
+PAT-20389,2026,February,Köln,45122,Colorectal Carcinoma,9066,Severe Staff Shortage
+PAT-20390,2023,June,Gevelsberg,58285,Prostate Carcinoma,4037,Severe Staff Shortage
+PAT-20391,2023,February,Bochum,45122,Breast Carcinoma,11035,None (Smooth Routing)
+PAT-20392,2024,March,Marl,45768,Bronchial Carcinoma,4824,None (Smooth Routing)
+PAT-20393,2025,April,Bochum,45122,Pancreatic Carcinoma,4249,None (Smooth Routing)
+PAT-20394,2024,September,Waltrop,45731,Prostate Carcinoma,4613,Severe Staff Shortage
+PAT-20395,2024,August,Oberhausen,45122,Colorectal Carcinoma,4077,None (Smooth Routing)
+PAT-20396,2025,July,Herne,44623,Bronchial Carcinoma,8046,In-Person Referral Overload
+PAT-20397,2024,November,Gelsenkirchen,45122,Colorectal Carcinoma,2507,None (Smooth Routing)
+PAT-20398,2025,May,Gladbeck,45964,Pancreatic Carcinoma,9210,Severe Staff Shortage
+PAT-20399,2023,October,Duisburg,45122,Colorectal Carcinoma,5322,In-Person Referral Overload
+PAT-20400,2024,November,Datteln,45711,Prostate Carcinoma,6635,Severe Staff Shortage
+PAT-20401,2022,July,Essen,45122,Pancreatic Carcinoma,6190,Lack of Available Beds
+PAT-20402,2024,September,Hagen,58095,Colorectal Carcinoma,9683,Severe Staff Shortage
+PAT-20403,2026,July,Duisburg,45122,Pancreatic Carcinoma,9829,None (Smooth Routing)
+PAT-20404,2023,November,Recklinghausen,45657,Breast Carcinoma,12252,In-Person Referral Overload
+PAT-20405,2025,September,Köln,45122,Colorectal Carcinoma,10333,Lack of Available Beds
+PAT-20406,2026,December,Herne,44623,Pancreatic Carcinoma,12087,Missing Medical Documents
+PAT-20407,2024,December,Dortmund,45122,Colorectal Carcinoma,8069,None (Smooth Routing)
+PAT-20408,2022,May,Dorsten,46282,Prostate Carcinoma,3087,None (Smooth Routing)
+PAT-20409,2023,May,Dortmund,45122,Colorectal Carcinoma,11672,In-Person Referral Overload
+PAT-20410,2023,September,Sprockhövel,45549,Breast Carcinoma,7933,In-Person Referral Overload
+PAT-20411,2022,May,Köln,45122,Colorectal Carcinoma,13601,In-Person Referral Overload
+PAT-20412,2022,April,Herne,44623,Pancreatic Carcinoma,8549,Missing Medical Documents
+PAT-20413,2025,July,Münster,45122,Bronchial Carcinoma,7563,In-Person Referral Overload
+PAT-20414,2023,September,Hagen,58095,Pancreatic Carcinoma,12028,Lack of Available Beds
+PAT-20415,2025,April,Gelsenkirchen,45122,Colorectal Carcinoma,7146,Severe Staff Shortage
+PAT-20416,2025,February,Herne,44623,Breast Carcinoma,7241,In-Person Referral Overload
+PAT-20417,2024,November,Münster,45122,Prostate Carcinoma,5097,None (Smooth Routing)
+PAT-20418,2024,March,Schwerte,58239,Breast Carcinoma,10972,Missing Medical Documents
+PAT-20419,2022,March,Dortmund,45122,Breast Carcinoma,12141,In-Person Referral Overload
+PAT-20420,2025,April,Gladbeck,45964,Pancreatic Carcinoma,9730,Severe Staff Shortage
+PAT-20421,2025,July,Münster,45122,Bronchial Carcinoma,9655,Lack of Available Beds
+PAT-20422,2022,September,Hagen,58095,Bronchial Carcinoma,4262,Severe Staff Shortage
+PAT-20423,2022,April,Münster,45122,Breast Carcinoma,3487,Missing Medical Documents
+PAT-20424,2026,June,Gladbeck,45964,Bronchial Carcinoma,5024,Severe Staff Shortage
+PAT-20425,2025,March,Oberhausen,45122,Breast Carcinoma,12277,Lack of Available Beds
+PAT-20426,2025,May,Hattingen,45525,Breast Carcinoma,9656,Lack of Available Beds
+PAT-20427,2026,September,Köln,45122,Colorectal Carcinoma,11668,Missing Medical Documents
+PAT-20428,2026,July,Wetter (Ruhr),58300,Colorectal Carcinoma,8817,Severe Staff Shortage
+PAT-20429,2023,April,Münster,45122,Pancreatic Carcinoma,10486,None (Smooth Routing)
+PAT-20430,2025,July,Schwelm,58332,Colorectal Carcinoma,8025,None (Smooth Routing)
+PAT-20431,2024,June,Gelsenkirchen,45122,Colorectal Carcinoma,4507,Missing Medical Documents
+PAT-20432,2022,August,Gladbeck,45964,Bronchial Carcinoma,12628,Lack of Available Beds
+PAT-20433,2023,November,Essen,45122,Breast Carcinoma,10116,Severe Staff Shortage
+PAT-20434,2022,March,Datteln,45711,Breast Carcinoma,9392,None (Smooth Routing)
+PAT-20435,2022,June,Oberhausen,45122,Bronchial Carcinoma,7476,In-Person Referral Overload
+PAT-20436,2025,January,Sprockhövel,45549,Prostate Carcinoma,2840,Lack of Available Beds
+PAT-20437,2023,November,Köln,45122,Bronchial Carcinoma,7963,Lack of Available Beds
+PAT-20438,2022,January,Gevelsberg,58285,Pancreatic Carcinoma,2682,Severe Staff Shortage
+PAT-20439,2026,November,Duisburg,45122,Breast Carcinoma,3856,Lack of Available Beds
+PAT-20440,2025,March,Wetter (Ruhr),58300,Colorectal Carcinoma,13696,Lack of Available Beds
+PAT-20441,2025,January,Gelsenkirchen,45122,Pancreatic Carcinoma,3487,Missing Medical Documents
+PAT-20442,2022,November,Hattingen,45525,Pancreatic Carcinoma,3226,Severe Staff Shortage
+PAT-20443,2025,February,Duisburg,45122,Prostate Carcinoma,7943,Severe Staff Shortage
+PAT-20444,2023,May,Hagen,58095,Breast Carcinoma,13151,None (Smooth Routing)
+PAT-20445,2022,December,Köln,45122,Prostate Carcinoma,8389,Lack of Available Beds
+PAT-20446,2023,February,Gladbeck,45964,Breast Carcinoma,12688,Missing Medical Documents
+PAT-20447,2023,March,Dortmund,45122,Bronchial Carcinoma,3270,None (Smooth Routing)
+PAT-20448,2024,May,Recklinghausen,45657,Prostate Carcinoma,2886,Missing Medical Documents
+PAT-20449,2022,December,Köln,45122,Breast Carcinoma,4356,Lack of Available Beds
+PAT-20450,2023,May,Oer-Erkenschwick,45739,Pancreatic Carcinoma,11842,Severe Staff Shortage
+PAT-20451,2022,June,Duisburg,45122,Colorectal Carcinoma,9063,In-Person Referral Overload
+PAT-20452,2022,May,Datteln,45711,Prostate Carcinoma,12581,In-Person Referral Overload
+PAT-20453,2025,December,Münster,45122,Bronchial Carcinoma,12733,In-Person Referral Overload
+PAT-20454,2025,January,Hagen,58095,Prostate Carcinoma,2506,None (Smooth Routing)
+PAT-20455,2022,January,Gelsenkirchen,45122,Colorectal Carcinoma,10111,Missing Medical Documents
+PAT-20456,2024,November,Herne,44623,Breast Carcinoma,13620,Lack of Available Beds
+PAT-20457,2023,April,Oberhausen,45122,Colorectal Carcinoma,3554,None (Smooth Routing)
+PAT-20458,2026,February,Gevelsberg,58285,Pancreatic Carcinoma,8718,Lack of Available Beds
+PAT-20459,2023,November,Essen,45122,Breast Carcinoma,12533,In-Person Referral Overload
+PAT-20460,2026,October,Oer-Erkenschwick,45739,Pancreatic Carcinoma,8813,None (Smooth Routing)
+PAT-20461,2024,July,Gelsenkirchen,45122,Colorectal Carcinoma,8639,Severe Staff Shortage
+PAT-20462,2026,November,Gevelsberg,58285,Colorectal Carcinoma,12848,None (Smooth Routing)
+PAT-20463,2026,September,Gelsenkirchen,45122,Bronchial Carcinoma,13413,Lack of Available Beds
+PAT-20464,2024,October,Schwelm,58332,Prostate Carcinoma,10230,Missing Medical Documents
+PAT-20465,2026,December,Köln,45122,Pancreatic Carcinoma,2638,None (Smooth Routing)
+PAT-20466,2022,December,Schwelm,58332,Pancreatic Carcinoma,7504,Missing Medical Documents
+PAT-20467,2025,March,Münster,45122,Pancreatic Carcinoma,5670,None (Smooth Routing)
+PAT-20468,2022,August,Ennepetal,58256,Prostate Carcinoma,11690,Lack of Available Beds
+PAT-20469,2025,May,Oberhausen,45122,Bronchial Carcinoma,12903,In-Person Referral Overload
+PAT-20470,2024,June,Witten,58452,Pancreatic Carcinoma,5711,Lack of Available Beds
+PAT-20471,2024,July,Dortmund,45122,Colorectal Carcinoma,11668,None (Smooth Routing)
+PAT-20472,2023,December,Gladbeck,45964,Bronchial Carcinoma,13359,None (Smooth Routing)
+PAT-20473,2023,April,Essen,45122,Breast Carcinoma,10625,In-Person Referral Overload
+PAT-20474,2022,March,Herten,45699,Prostate Carcinoma,8568,In-Person Referral Overload
+PAT-20475,2025,March,Bochum,45122,Colorectal Carcinoma,2864,In-Person Referral Overload
+PAT-20476,2022,August,Herdecke,58313,Colorectal Carcinoma,10516,Severe Staff Shortage
+PAT-20477,2022,August,Köln,45122,Breast Carcinoma,7942,In-Person Referral Overload
+PAT-20478,2026,July,Hattingen,45525,Prostate Carcinoma,6406,Missing Medical Documents
+PAT-20479,2026,December,Bochum,45122,Prostate Carcinoma,6235,In-Person Referral Overload
+PAT-20480,2024,March,Oer-Erkenschwick,45739,Prostate Carcinoma,5341,Severe Staff Shortage
+PAT-20481,2024,January,Oberhausen,45122,Colorectal Carcinoma,8644,Lack of Available Beds
+PAT-20482,2026,December,Datteln,45711,Bronchial Carcinoma,6247,In-Person Referral Overload
+PAT-20483,2022,February,Bochum,45122,Colorectal Carcinoma,3598,In-Person Referral Overload
+PAT-20484,2024,December,Schwerte,58239,Pancreatic Carcinoma,12707,Missing Medical Documents
+PAT-20485,2026,March,Gelsenkirchen,45122,Breast Carcinoma,8147,Missing Medical Documents
+PAT-20486,2022,July,Schwerte,58239,Prostate Carcinoma,10047,None (Smooth Routing)
+PAT-20487,2023,October,Bochum,45122,Pancreatic Carcinoma,5055,Missing Medical Documents
+PAT-20488,2024,August,Castrop-Rauxel,44575,Breast Carcinoma,4088,Severe Staff Shortage
+PAT-20489,2022,May,Köln,45122,Pancreatic Carcinoma,2682,Missing Medical Documents
+PAT-20490,2025,August,Marl,45768,Colorectal Carcinoma,9055,None (Smooth Routing)
+PAT-20491,2025,November,Gelsenkirchen,45122,Prostate Carcinoma,8546,Missing Medical Documents
+PAT-20492,2023,November,Ennepetal,58256,Bronchial Carcinoma,10258,Severe Staff Shortage
+PAT-20493,2022,October,Duisburg,45122,Pancreatic Carcinoma,5667,Severe Staff Shortage
+PAT-20494,2022,June,Ennepetal,58256,Pancreatic Carcinoma,11580,Lack of Available Beds
+PAT-20495,2024,September,Essen,45122,Bronchial Carcinoma,6732,In-Person Referral Overload
+PAT-20496,2025,April,Witten,58452,Colorectal Carcinoma,11510,Lack of Available Beds
+PAT-20497,2022,June,Münster,45122,Colorectal Carcinoma,13140,Missing Medical Documents
+PAT-20498,2025,November,Wetter (Ruhr),58300,Bronchial Carcinoma,8818,Lack of Available Beds
+PAT-20499,2024,May,Gelsenkirchen,45122,Bronchial Carcinoma,3022,Severe Staff Shortage
+PAT-20500,2022,September,Hagen,58095,Pancreatic Carcinoma,3816,Missing Medical Documents
