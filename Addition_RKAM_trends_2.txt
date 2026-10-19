@@ -1,0 +1,46 @@
+patient_id,date,referrer_type,city,postal_code,cancer_type,tumor_stage,board_type,bottleneck_reason,waiting_time_days,revenue_euros
+PAT-20000,2025-11-08,Cooperation Partner (Münster),Ahlen,59227,Gynecology,Stage III,Molecular Tumor Board,None (Smooth Routing),4,13863
+PAT-20001,2024-06-21,Research Collaboration (Cologne),Herdecke,58313,Dermatology,Stage IV,Standard Tumor Board,Late Diagnostics / Lab Delay,10,7055
+PAT-20002,2023-06-12,External Referral (Rhine-Ruhr Partner),Moers,47441,Gynecology,Stage III,Standard Tumor Board,Severe Staff Shortage,21,5247
+PAT-20003,2024-12-23,External Referral (Rhine-Ruhr Partner),Herne,44623,Gynecology,Stage I,Standard Tumor Board,Missing Documents,14,13580
+PAT-20004,2023-04-25,Cooperation Partner (Münster),Gelsenkirchen,45879,Dermatology,Stage I,Standard Tumor Board,None (Smooth Routing),2,12055
+PAT-20005,2025-12-07,Regional/Local Hospital (Essen Area),Unna,59423,Lung Cancer,Stage IV,Molecular Tumor Board,None (Smooth Routing),4,5573
+PAT-20006,2023-04-22,Cooperation Partner (Münster),Köln,50667,Dermatology,Stage IV,Standard Tumor Board,Late Diagnostics / Lab Delay,13,10129
+PAT-20007,2025-09-08,Cooperation Partner (Münster),Köln,50667,Pediatric Oncology,Stage IV,Molecular Tumor Board,Severe Staff Shortage,21,8831
+PAT-20008,2025-09-15,External Referral (Rhine-Ruhr Partner),Moers,47441,Lung Cancer,Stage IV,Standard Tumor Board,None (Smooth Routing),3,7758
+PAT-20009,2024-01-08,Regional/Local Hospital (Essen Area),Hagen,58135,Lung Cancer,Stage III,Standard Tumor Board,None (Smooth Routing),3,8684
+PAT-20010,2025-07-09,External Referral (Rhine-Ruhr Partner),Herdecke,58313,Pediatric Oncology,Stage III,Molecular Tumor Board,Severe Staff Shortage,15,10654
+PAT-20011,2024-01-03,Regional/Local Hospital (Essen Area),Recklinghausen,45657,Lung Cancer,Stage I,Standard Tumor Board,Severe Staff Shortage,16,9438
+PAT-20012,2022-10-10,Internal Clinic (UK Essen Krebscenter),Gelsenkirchen,45879,Gynecology,Stage III,Standard Tumor Board,Equipment Failure,10,11255
+PAT-20013,2026-04-05,Regional/Local Hospital (Essen Area),Köln,50667,Pediatric Oncology,Stage IV,Standard Tumor Board,Late Diagnostics / Lab Delay,16,12414
+PAT-20014,2024-06-28,Cooperation Partner (Münster),Herdecke,58313,Pediatric Oncology,Stage II,Standard Tumor Board,Missing Documents,15,6127
+PAT-20015,2025-11-26,External Referral (Rhine-Ruhr Partner),Moers,47441,Lung Cancer,Stage I,Standard Tumor Board,Missing Documents,18,13367
+PAT-20016,2026-09-03,Regional/Local Hospital (Essen Area),Unna,59423,Lung Cancer,Stage II,Standard Tumor Board,None (Smooth Routing),3,3163
+PAT-20017,2024-06-24,Research Collaboration (Cologne),Moers,47441,Lung Cancer,Stage II,Standard Tumor Board,Late Diagnostics / Lab Delay,13,3791
+PAT-20018,2023-03-17,External Referral (Rhine-Ruhr Partner),Recklinghausen,45657,Lung Cancer,Stage III,Standard Tumor Board,Missing Documents,11,3354
+PAT-20019,2026-01-01,Internal Clinic (UK Essen Krebscenter),Herdecke,58313,Ocular Oncology (Eyes),Stage II,Standard Tumor Board,Late Diagnostics / Lab Delay,16,7431
+PAT-20020,2024-08-27,Internal Clinic (UK Essen Krebscenter),Wetter Ruhr,58300,Ocular Oncology (Eyes),Stage II,Standard Tumor Board,Missing Documents,20,8787
+PAT-20021,2022-09-28,Internal Clinic (UK Essen Krebscenter),Essen,45122,Gynecology,Stage IV,Standard Tumor Board,Severe Staff Shortage,13,9046
+PAT-20022,2023-03-19,Research Collaboration (Cologne),Herne,44623,Lung Cancer,Stage I,Standard Tumor Board,Severe Staff Shortage,16,4885
+PAT-20023,2022-11-28,External Referral (Rhine-Ruhr Partner),Moers,47441,Dermatology,Stage III,Standard Tumor Board,Severe Staff Shortage,19,2762
+PAT-20024,2025-10-16,External Referral (Rhine-Ruhr Partner),Gelsenkirchen,45879,Dermatology,Stage I,Molecular Tumor Board,None (Smooth Routing),4,7048
+PAT-20025,2026-11-23,Regional/Local Hospital (Essen Area),Hagen,58135,Gynecology,Stage IV,Standard Tumor Board,Equipment Failure,17,12388
+PAT-20026,2025-11-17,Research Collaboration (Cologne),Wuppertal,42103,Gynecology,Stage IV,Standard Tumor Board,None (Smooth Routing),3,4700
+PAT-20027,2026-02-14,Regional/Local Hospital (Essen Area),Wuppertal,42103,Pediatric Oncology,Stage I,Molecular Tumor Board,None (Smooth Routing),4,9444
+PAT-20028,2026-04-24,Regional/Local Hospital (Essen Area),Ahlen,59227,Lung Cancer,Stage IV,Molecular Tumor Board,Severe Staff Shortage,21,11646
+PAT-20029,2024-06-23,Internal Clinic (UK Essen Krebscenter),Wuppertal,42103,Gynecology,Stage II,Standard Tumor Board,Late Diagnostics / Lab Delay,20,2725
+PAT-20030,2026-01-28,Internal Clinic (UK Essen Krebscenter),Wetter Ruhr,58300,Ocular Oncology (Eyes),Stage I,Molecular Tumor Board,Severe Staff Shortage,13,7142
+PAT-20031,2022-01-12,Internal Clinic (UK Essen Krebscenter),Gelsenkirchen,45879,Pediatric Oncology,Stage II,Standard Tumor Board,Severe Staff Shortage,18,3560
+PAT-20032,2026-01-14,Research Collaboration (Cologne),Hagen,58135,Lung Cancer,Stage IV,Molecular Tumor Board,None (Smooth Routing),1,5475
+PAT-20033,2022-03-18,Cooperation Partner (Münster),Moers,47441,Dermatology,Stage III,Standard Tumor Board,Severe Staff Shortage,17,9955
+PAT-20034,2023-11-10,Cooperation Partner (Münster),Herdecke,58313,Lung Cancer,Stage IV,Standard Tumor Board,Missing Documents,20,9843
+PAT-20035,2026-10-23,External Referral (Rhine-Ruhr Partner),Herdecke,58313,Pediatric Oncology,Stage IV,Molecular Tumor Board,Severe Staff Shortage,18,7280
+PAT-20036,2025-01-08,Research Collaboration (Cologne),Münster,48149,Gynecology,Stage III,Molecular Tumor Board,None (Smooth Routing),2,8419
+PAT-20037,2024-09-26,Internal Clinic (UK Essen Krebscenter),Münster,48149,Dermatology,Stage II,Standard Tumor Board,None (Smooth Routing),4,7277
+PAT-20038,2024-12-05,Internal Clinic (UK Essen Krebscenter),Wetter Ruhr,58300,Ocular Oncology (Eyes),Stage IV,Standard Tumor Board,Late Diagnostics / Lab Delay,16,7815
+PAT-20039,2026-04-15,Research Collaboration (Cologne),Unna,59423,Pediatric Oncology,Stage II,Molecular Tumor Board,Severe Staff Shortage,12,7252
+PAT-20040,2024-12-26,Cooperation Partner (Münster),Ahlen,59227,Pediatric Oncology,Stage II,Standard Tumor Board,Late Diagnostics / Lab Delay,16,3650
+PAT-20041,2022-12-21,Cooperation Partner (Münster),Wetter Ruhr,58300,Dermatology,Stage I,Standard Tumor Board,Severe Staff Shortage,15,3059
+PAT-20042,2022-08-13,External Referral (Rhine-Ruhr Partner),Recklinghausen,45657,Pediatric Oncology,Stage III,Standard Tumor Board,Missing Documents,14,9504
+PAT-20043,2024-12-26,Internal Clinic (UK Essen Krebscenter),Hagen,58135,Lung Cancer,Stage I,Standard Tumor Board,None (Smooth Routing),1,13810
+PAT-20044,2022-04-05,Cooperation Partner (Münster),Gelsenkirchen,45879,Dermatology,Stage IV,Standard Tumor Board,Equipment Failure,13,9921
