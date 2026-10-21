@@ -1,4 +1,4 @@
-import pandas as pd
+iimport pandas as pd
 import numpy as np
 
 print("--- STAGE 1: GENERATING MESSY HOSPITAL RAW DATA ---")
@@ -41,16 +41,16 @@ for i in range(n_patients):
 
 print("\n--- STAGE 2: EXECUTION OF AUTOMATED DATA CLEANING (THE ESSENTIAL SKILLS) ---")
 
-# REPARATUR 1: Schreibfehler korrigieren (Mapping)
+# Repair 1: Spelling (Mapping)
 df_dirty['cancer_type'] = df_dirty['cancer_type'].replace({'Gynäcology (Typo)': 'Gynecology', 'LungCancers': 'Lung Cancer'})
 
-# REPARATUR 2: Städte vereinheitlichen (Leerzeichen wegschneiden & Großbuchstaben korrigieren)
+# REPARATURepair 2: Cities (Leerzeichen wegschneiden & Großbuchstaben korrigieren)
 df_dirty['city'] = df_dirty['city'].str.strip()  # Entfernt unsichtbare Leerzeichen (" essen " -> "essen")
 df_dirty['city'] = df_dirty['city'].replace({'COLOGNE': 'Köln'})
 df_dirty['city'] = df_dirty['city'].str.capitalize() # Sorgt für korrekte Groß-/Kleinschreibung (essen -> Essen)
 
-# REPARATUR 3: Fehlende Daten behandeln (Data Imputation)
-# Fehlende Tumorstadien deklarieren wir regelkonform als "Unknown / Pending Investigation"
+# Repair 3: MIssing Data (Data Imputation)
+#Missing Data = "Unknown / Pending Investigation"
 df_dirty['tumor_stage'] = df_dirty['tumor_stage'].fillna('Unknown / Pending')
 
 df_clean = df_dirty
